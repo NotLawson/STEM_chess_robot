@@ -1,0 +1,253 @@
+{
+    "acceleration": {
+        "method": "acceleration",
+        "arguments": [
+            "acceleration"
+        ]
+    },
+    "can_move_relative": {
+        "method": "can_move_relative",
+        "arguments": [
+            "x",
+            "y",
+            "z"
+        ]
+    },
+    "can_move_to": {
+        "method": "can_move_to",
+        "arguments": [
+            "x",
+            "y",
+            "z"
+        ]
+    },
+    "disable_all_motors": {
+        "method": "disable_all_motors",
+        "arguments": []
+    },
+    "disable_base": {
+        "method": "disable_base",
+        "arguments": []
+    },
+    "enable_all_motors": {
+        "method": "enable_all_motors",
+        "arguments": []
+    },
+    "erase": {
+        "method": "erase",
+        "arguments": [
+            "name"
+        ]
+    },
+    "get_base_angle": {
+        "method": "get_base_angle",
+        "arguments": []
+    },
+    "get_tool_mode": {
+        "method": "get_tool_mode",
+        "arguments": []
+    },
+    "grip": {
+        "method": "grip",
+        "arguments": [
+            "enable",
+            "sleep"
+        ]
+    },
+    "hardware_settings": {
+        "method": "hardware_settings",
+        "arguments": []
+    },
+    "hardware_settings_default": {
+        "method": "hardware_settings_default",
+        "arguments": []
+    },
+    "hardware_settings_path": {
+        "method": "hardware_settings_path",
+        "arguments": []
+    },
+    "home": {
+        "method": "home",
+        "arguments": []
+    },
+    "is_gripping": {
+        "method": "is_gripping",
+        "arguments": []
+    },
+    "is_pressing": {
+        "method": "is_pressing",
+        "arguments": []
+    },
+    "is_pumping": {
+        "method": "is_pumping",
+        "arguments": []
+    },
+    "is_simulating": {
+        "method": "is_simulating",
+        "arguments": []
+    },
+    "move_relative": {
+        "method": "move_relative",
+        "arguments": [
+            "x",
+            "y",
+            "z",
+            "check"
+        ]
+    },
+    "move_to": {
+        "method": "move_to",
+        "arguments": [
+            "x",
+            "y",
+            "z",
+            "check",
+            "translate"
+        ]
+    },
+    "playback": {
+        "method": "playback",
+        "arguments": [
+            "name",
+            "relative",
+            "speed",
+            "check"
+        ]
+    },
+    "pop_settings": {
+        "method": "pop_settings",
+        "arguments": []
+    },
+    "position": {
+        "method": "position",
+        "arguments": []
+    },
+    "probe": {
+        "method": "probe",
+        "arguments": [
+            "step",
+            "speed"
+        ]
+    },
+    "process_recording": {
+        "method": "process_recording",
+        "arguments": [
+            "name",
+            "filter",
+            "max_angle"
+        ]
+    },
+    "pump": {
+        "method": "pump",
+        "arguments": [
+            "enable",
+            "sleep"
+        ]
+    },
+    "push_settings": {
+        "method": "push_settings",
+        "arguments": []
+    },
+    "record": {
+        "method": "record",
+        "arguments": [
+            "name",
+            "overwrite",
+            "check",
+            "method",
+            "still_seconds",
+            "still_distance"
+        ]
+    },
+    "recordings_path": {
+        "method": "recordings_path",
+        "arguments": []
+    },
+    "rotate_relative": {
+        "method": "rotate_relative",
+        "arguments": [
+            "angle",
+            "sleep",
+            "wait"
+        ]
+    },
+    "rotate_to": {
+        "method": "rotate_to",
+        "arguments": [
+            "angle",
+            "sleep",
+            "wait",
+            "translate"
+        ]
+    },
+    "save_hardware_settings": {
+        "method": "save_hardware_settings",
+        "arguments": []
+    },
+    "set_settings_directory": {
+        "method": "set_settings_directory",
+        "arguments": [
+            "directory"
+        ]
+    },
+    "settings_directory": {
+        "method": "settings_directory",
+        "arguments": []
+    },
+    "sleep": {
+        "method": "sleep",
+        "arguments": []
+    },
+    "speed": {
+        "method": "speed",
+        "arguments": [
+            "speed"
+        ]
+    },
+    "tool_mode": {
+        "method": "tool_mode",
+        "arguments": [
+            "new_mode"
+        ]
+    },
+    "update_position": {
+        "method": "update_position",
+        "arguments": [
+            "check"
+        ]
+    },
+    "wait_for_arrival": {
+        "method": "wait_for_arrival",
+        "arguments": [
+            "timeout",
+            "check"
+        ]
+    },
+    "wait_for_touch": {
+        "method": "wait_for_touch",
+        "arguments": [
+            "distance",
+            "timeout"
+        ]
+    },
+    "wrist_angle": {
+        "method": "wrist_angle",
+        "arguments": []
+    },
+    "wrist_is_centered": {
+        "method": "wrist_is_centered",
+        "arguments": []
+    },
+    "wrist_offset_reset": {
+        "method": "wrist_offset_reset",
+        "arguments": []
+    },
+    "z_is_level": {
+        "method": "z_is_level",
+        "arguments": []
+    },
+    "z_offset_reset": {
+        "method": "z_offset_reset",
+        "arguments": []
+    }
+}
