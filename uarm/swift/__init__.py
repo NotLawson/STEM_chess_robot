@@ -6,10 +6,10 @@
 #
 # Author: Vinman <vinman.wen@ufactory.cc> <vinman.cub@gmail.com>
 
-import logging
 import time
 import re
 import os
+import sys
 import threading
 try:
     from multiprocessing.pool import ThreadPool
@@ -17,6 +17,11 @@ except:
     ThreadPool = None
 try:
     import asyncio
+
+    if sys.version_info.major >= 3 and sys.version_info.minor >= 5:
+        from .grammar_async import AsyncObject as BaseObject
+    else:
+        from .grammar_coroutine import CoroutineObject as BaseObject
 except:
     asyncio = None
 from queue import Queue
@@ -28,9 +33,6 @@ from .gripper import Gripper
 from .grove import Grove
 from .utils import *
 from ..tools.threads import ThreadManage
-
-
-logger = logging.getLogger('uarm.swift')
 
 
 class HandleQueue(Queue):
@@ -45,7 +47,7 @@ class HandleQueue(Queue):
         return None
 
 
-class Swift(Pump, Keys, Gripper, Grove):
+class Swift(BaseObject, Pump, Keys, Gripper, Grove):
     def __init__(self, port=None, baudrate=115200, timeout=None, **kwargs):
         super(Swift, self).__init__()
         self.cmd_pend = {}
@@ -138,17 +140,18 @@ class Swift(Pump, Keys, Gripper, Grove):
             #         await asyncio.sleep(0.01)
             #     logger.debug('asyncio thread exit ...')
 
-            @asyncio.coroutine
-            def _asyncio_loop():
-                logger.debug('asyncio thread start ...')
-                while self.connected:
-                    yield from asyncio.sleep(0.01)
-                logger.debug('asyncio thread exit ...')
+            # @asyncio.coroutine
+            # def _asyncio_loop():
+            #     logger.debug('asyncio thread start ...')
+            #     while self.connected:
+            #         yield from asyncio.sleep(0.01)
+            #     logger.debug('asyncio thread exit ...')
 
             try:
                 asyncio.set_event_loop(self._asyncio_loop)
                 self._asyncio_loop_alive = True
-                self._asyncio_loop.run_until_complete(_asyncio_loop())
+                # self._asyncio_loop.run_until_complete(_asyncio_loop())
+                self._asyncio_loop.run_until_complete(self._asyncio_loop_func())
             except Exception as e:
                 pass
 
@@ -166,15 +169,15 @@ class Swift(Pump, Keys, Gripper, Grove):
         else:
             callback(msg)
 
-    if asyncio:
-        @staticmethod
-        @asyncio.coroutine
-        def _async_run_callback(callback, msg):
-            yield from callback(msg)
+    # if asyncio:
+    #     @staticmethod
+    #     @asyncio.coroutine
+    #     def _async_run_callback(callback, msg):
+    #         yield from callback(msg)
 
-        # @staticmethod
-        # async def _async_run_callback(callback, msg):
-        #     await callback(msg)
+    #     # @staticmethod
+    #     # async def _async_run_callback(callback, msg):
+    #     #     await callback(msg)
 
     def _loop_handle(self):
         logger.debug('serial result handle thread start ...')
@@ -388,7 +391,7 @@ class Swift(Pump, Keys, Gripper, Grove):
         while time.time() - start_time < timeout:
             if self.power_status:
                 break
-            self.get_power_status(wait=True, timeout=0.05, debug=False)
+            self.get_power_status(wait=True, timeout=0.5, debug=False)
 
     def connect(self, port=None, baudrate=None, timeout=None):
         self.serial.connect(port, baudrate, timeout)
@@ -517,9 +520,7 @@ class Swift(Pump, Keys, Gripper, Grove):
             #     'msg': '#{cnt} {msg}'.format(cnt=self._cnt, msg=msg)
             # })
             cmd.start()
-            ser_msg = '#{cnt} {msg}'.format(cnt=self._cnt, msg=msg)
-            logger.debug(ser_msg)
-            self.serial.write(ser_msg)
+            self.serial.write('#{cnt} {msg}'.format(cnt=self._cnt, msg=msg))
             self._cnt += 1
             if self._cnt == 10000:
                 self._cnt = 1
@@ -532,7 +533,6 @@ class Swift(Pump, Keys, Gripper, Grove):
         if no_cnt:
             timeout = timeout if isinstance(timeout, (int, float)) else self.cmd_timeout
             self._other_que.queue.clear()
-            logger.debug(ser_msg)
             self.serial.write(msg)
             return self._other_que.get(timeout)
         else:
@@ -1097,10 +1097,7 @@ class Swift(Pump, Keys, Gripper, Grove):
     def get_rom_data(self, address, data_type=None, wait=True, timeout=None, callback=None):
         def _handle(_ret, _callback=None):
             if _ret[0] == protocol.OK:
-                if len(_ret) == 1:
-                    _ret = protocol.OK
-                else:
-                    _ret = int(_ret[1][1:]) if data_type != protocol.EEPROM_DATA_TYPE_FLOAT else float(_ret[1][1:])
+                _ret = int(_ret[1][1:]) if data_type != protocol.EEPROM_DATA_TYPE_FLOAT else float(_ret[1][1:])
             elif _ret != protocol.TIMEOUT:
                 _ret = _ret[0]
             if callable(_callback):

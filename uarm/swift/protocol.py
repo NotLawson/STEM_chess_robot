@@ -8,7 +8,6 @@
 
 OK = "OK"
 TIMEOUT = 'TIMEOUT'
-ROM_EMPTY = 'ROM_EMPTY'
 
 # Device Info Cmd
 GET_DEVICE_TYPE = "P2201"
