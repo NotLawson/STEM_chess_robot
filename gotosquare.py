@@ -1,3 +1,5 @@
+# demo for going to different squares
+
 import robot, time, pickle
 from robot import get_coords
 

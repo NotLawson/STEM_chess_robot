@@ -7,45 +7,63 @@ class Arm:
         self.swift.reset(wait=True, speed=10000000)
     def move(self, x, y, z, speed=1000000):
         self.swift.set_position(x=x, speed=speed)
-        print("x", end=" ")
         self.swift.set_position(y=y)
-        print("y", end=" ")
         self.swift.set_position(z=z)
-        print("z", end=" ")
         self.swift.flush_cmd(wait_stop=True)
-        print("flush")
     def grab(self):
         self.swift.set_gripper(True, wait=True)
     def release(self):
         self.swift.set_gripper(False, wait=True)
-    def move_square(self, current, coords):
-        current = get_coords(current)
-        coords = get_coords(coords)
-        self.move(current[0], current[1], 9)
+    def move_square(self, from_sq, to_sq):
+        from_sq = get_coords(from_sq)
+        to_sq = get_coords(to_sq)
+        self.move(from_sq[0], from_sq[1], 9)
 
         self.swift.set_pump(True)
         time.sleep(1)
 
-        self.move(current[0], current[1], 170)
+        self.move(from_sq[0], from_sq[1], 170)
 
         self.swift.set_servo_attach(wait=True, timeout=None)
         self.swift.set_position(x=200, y=0, z=150, speed=10000000, wait=True, timeout=None)
         self.swift.set_wrist(90, wait=True, timeout=None)
         time.sleep(1)
 
-        self.move(coords[0], coords[1], 170)
-        self.move(coords[0], coords[1], 9)
+        self.move(to_sq[0], to_sq[1], 170)
+        self.move(to_sq[0], to_sq[1], 9)
 
         self.swift.set_pump(False)
 
         time.sleep(0.5)
 
-        self.move(coords[0], coords[1], 15)
+        self.move(to_sq[0], to_sq[1], 15)
         time.sleep(0.2)
-        self.move(coords[0], coords[1], 170)
+        self.move(to_sq[0], to_sq[1], 170)
 
         self.home()
 
+    def murder(self, square):
+        from_sq = get_coords(square)
+        self.move(from_sq[0], from_sq[1], 9)
+
+        self.swift.set_pump(True)
+        time.sleep(1)
+
+        self.move(from_sq[0], from_sq[1], 170)
+
+        self.swift.set_servo_attach(wait=True, timeout=None)
+        self.swift.set_position(x=200, y=0, z=150, speed=10000000, wait=True, timeout=None)
+        self.swift.set_wrist(90, wait=True, timeout=None)
+        time.sleep(1)
+
+        self.move(100, -200, 100)
+
+        self.swift.set_pump(False)
+
+        time.sleep(0.5)
+
+
+        self.home()
 
 def get_coords(square):
     board = [
