@@ -1,6 +1,7 @@
 {
-    "board": "arduino:avr:uno",
-    "port": "COM6",
-    "programmer": "avrisp",
-    "sketch": "arduino\\arduino.ino"
+    "board": "esp32:esp32:esp32cam",
+    "port": "COM7",
+    "programmer": "esptool",
+    "sketch": "camera\\camera.ino",
+    "configuration": "CPUFreq=240,FlashMode=qio,PartitionScheme=huge_app,FlashFreq=80,DebugLevel=none,EraseFlash=none"
 }
