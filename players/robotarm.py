@@ -1,4 +1,3 @@
-from __main__ import game
 import chess
 import chess.engine
 import uarm, os
@@ -6,44 +5,10 @@ import uarm, os
 folder = os.path.dirname(os.path.abspath(__file__))
 
 # Settings
-ARM_PORT: str = "COM3"  # default COM port for the robot arm
+ARM_PORT: str = "COM9"  # default COM port for the robot arm
 ARM_HOVER_HEIGHT: int = 50
-ARM_GRAB_HEIGHT: int = 10
+ARM_GRAB_HEIGHT: int = 8
 
-class RobotArm(game.Player):
-    def __init__(self, name: str = "RobotArm", engine_path: str = folder + "\stockfish-10-win\Windows\stockfish_10_x64.exe", think_time: float = 2.0, arm_port: str = ARM_PORT):
-        super().__init__(name)
-        self.engine = chess.engine.SimpleEngine.popen_uci(engine_path)
-        self.think_time = think_time
-        self.arm = Arm(arm_port)
-
-    def move(self, board: chess.Board) -> chess.Move:
-        result = self.engine.play(board, limit=chess.engine.Limit(self.think_time))
-        
-        # Execute move with robot arm
-        move = result.move.uci()
-        from_square = move[:2]
-        to_square = move[2:][:2] # ignore the possibility of promotion: the arm doesn't do anything special for that
-
-        self.arm.home()
-
-        # grab the piece
-        from_coords = get_coords(from_square)
-        self.arm.move(x=from_coords[0], y=from_coords[1], z=ARM_HOVER_HEIGHT)
-        self.arm.move(z=ARM_GRAB_HEIGHT)
-        self.arm.grab()
-        self.arm.move(z=ARM_HOVER_HEIGHT)
-
-        # move to destination
-        to_coords = get_coords(to_square)
-        self.arm.move(x=to_coords[0], y=to_coords[1], z=ARM_HOVER_HEIGHT)
-        self.arm.move(z=ARM_GRAB_HEIGHT)
-        self.arm.release()
-        self.arm.move(z=ARM_HOVER_HEIGHT)
-        
-        self.arm.home()
-        return result.move()
-    
 class Arm:
     def __init__(self, port):
         self.swift = uarm.SwiftAPI(port=port)
@@ -59,11 +24,109 @@ class Arm:
         self.swift.flush_cmd(wait_stop=True)
 
     def grab(self):
-        self.swift.set_gripper(True, wait=True)
-
+        self.swift.set_pump(True)
+        self.swift.flush_cmd(wait_stop=True)
     def release(self):
-        self.swift.set_gripper(False, wait=True)
+        self.swift.set_pump(False)
+        self.swift.flush_cmd(wait_stop=True)
 
+if True:
+    from __main__ import game
+    class RobotArm(game.Player):
+        def __init__(self, name: str = "RobotArm", engine_path: str = folder + "\stockfish-10-win\Windows\stockfish_10_x64.exe", think_time: float = 2.0, arm: Arm | None = None):
+            super().__init__(name)
+            self.engine = chess.engine.SimpleEngine.popen_uci(engine_path)
+            self.think_time = think_time
+            if arm == None:
+                self.arm = Arm(ARM_PORT)
+            else:
+                self.arm = arm
+
+        def move(self, board: chess.Board) -> chess.Move:
+            result = self.engine.play(board, limit=chess.engine.Limit(self.think_time))
+            
+            # Execute move with robot arm
+            move = result.move.uci()
+            from_square = move[:2]
+            to_square = move[2:][:2] # ignore the possibility of promotion: the arm doesn't do anything special for that
+
+            self.arm.home()
+
+            if board.is_capture(result.move):
+                # if it's a capture, first remove the captured piece
+                captured_square = to_square
+                captured_coords = get_coords(captured_square)
+                self.arm.move(x=captured_coords[0], y=captured_coords[1], z=ARM_HOVER_HEIGHT)
+                self.arm.move(z=ARM_GRAB_HEIGHT)
+                self.arm.grab()
+                self.arm.move(z=ARM_HOVER_HEIGHT)
+                # move to "captured pieces" area
+                self.arm.move(x=200, y=-215, z=ARM_HOVER_HEIGHT)
+                self.arm.move(z=ARM_GRAB_HEIGHT)
+                self.arm.release()
+                self.arm.move(z=ARM_HOVER_HEIGHT)
+            
+            if board.is_castling(result.move):
+                # handle castling: move the rook as well
+                if to_square == "g1":  # white kingside
+                    rook_from = "h1"
+                    rook_to = "f1"
+                elif to_square == "c1":  # white queenside
+                    rook_from = "a1"
+                    rook_to = "d1"
+                elif to_square == "g8":  # black kingside
+                    rook_from = "h8"
+                    rook_to = "f8"
+                elif to_square == "c8":  # black queenside
+                    rook_from = "a8"
+                    rook_to = "d8"
+
+                # move the king
+                from_coords = get_coords(from_square)
+                self.arm.move(x=from_coords[0], y=from_coords[1], z=ARM_HOVER_HEIGHT)
+                self.arm.move(z=ARM_GRAB_HEIGHT)
+                self.arm.grab()
+                self.arm.move(z=ARM_HOVER_HEIGHT)
+
+                to_coords = get_coords(to_square)
+                self.arm.move(x=to_coords[0], y=to_coords[1], z=ARM_HOVER_HEIGHT)
+                self.arm.move(z=ARM_GRAB_HEIGHT)
+                self.arm.release()
+                self.arm.move(z=ARM_HOVER_HEIGHT)
+
+                # move the rook
+                from_coords = get_coords(rook_from)
+                self.arm.move(x=from_coords[0], y=from_coords[1], z=ARM_HOVER_HEIGHT)
+                self.arm.move(z=ARM_GRAB_HEIGHT)
+                self.arm.grab()
+                self.arm.move(z=ARM_HOVER_HEIGHT)
+
+                to_coords = get_coords(rook_to)
+                self.arm.move(x=to_coords[0], y=to_coords[1], z=ARM_HOVER_HEIGHT)
+                self.arm.move(z=ARM_GRAB_HEIGHT)
+                self.arm.release()
+                self.arm.move(z=ARM_HOVER_HEIGHT)
+
+                self.arm.home()
+                return result.move
+
+            # grab the piece
+            from_coords = get_coords(from_square)
+            self.arm.move(x=from_coords[0], y=from_coords[1], z=ARM_HOVER_HEIGHT)
+            self.arm.move(z=ARM_GRAB_HEIGHT)
+            self.arm.grab()
+            self.arm.move(z=ARM_HOVER_HEIGHT)
+
+            # move to destination
+            to_coords = get_coords(to_square)
+            self.arm.move(x=to_coords[0], y=to_coords[1], z=ARM_HOVER_HEIGHT)
+            self.arm.move(z=ARM_GRAB_HEIGHT)
+            self.arm.release()
+            self.arm.move(z=ARM_HOVER_HEIGHT)
+            
+            self.arm.home()
+            return result.move
+    
 def get_coords(square):
     board = [
         # A  B  C  D  E  F  G  H

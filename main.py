@@ -1,12 +1,14 @@
 import game
 
-from players import human, stockfish
+from players import human, stockfish, robotarm
 
+arm = robotarm.Arm(port="COM9")
 game_instance = game.Game(
     name="STEM Chess Robot", 
     players=(
-        stockfish.Stockfish(think_time=0.5),
-        stockfish.Stockfish(think_time=0.5)
-    )
+        robotarm.RobotArm(arm=arm),
+        robotarm.RobotArm(arm=arm),
+    ),
+    announcer=game.Announcer(debug=True, output="game.txt")
 )
 game_instance.start()

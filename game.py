@@ -182,6 +182,7 @@ class Game:
         self.announcer.important("Game Ended.")
         self.announcer.announce("Final position:")
         print(self.board)
+        self.announcer.output_handle.write(self.board+ "\n")
         self.announcer.announce("Final FEN: " + self.board.fen())
 
     def move(self, player: Player):
@@ -197,4 +198,4 @@ class Game:
                 self.announcer.debug(f"Error occurred: {e}")
                 continue
         self.announcer.commentate(self.board)
-        print(self.board)
+        #print(self.board)
