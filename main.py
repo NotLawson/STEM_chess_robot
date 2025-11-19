@@ -2,7 +2,7 @@ import game
 
 from players import human, stockfish, robotarm
 
-arm = robotarm.Arm(port="COM9")
+arm = robotarm.Arm(port="COM10")
 game_instance = game.Game(
     name="STEM Chess Robot", 
     players=(

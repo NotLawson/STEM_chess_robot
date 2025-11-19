@@ -16,6 +16,7 @@ class Arm:
 
     def home(self):
         self.swift.reset(wait=True, speed=10000000)
+        self.swift.set_position(z=165, speed=1000000)
 
     def move(self, x=False, y=False, z=False, speed=1000000):
         if x: self.swift.set_position(x=x, speed=speed)

@@ -1,6 +1,6 @@
 from __main__ import game
-import chess 
-
+import chess
+import cv2
 class Human(game.Player):
     def __init__(self):
         super().__init__(name="Human")
@@ -20,3 +20,14 @@ class Human(game.Player):
                     print("illegal move, try again!")
             except:
                 print("Invalid input, must be like 'a1:a3'")
+
+
+class ComputerVision:
+    def __init__(self):
+        pass
+
+    def capture(self):
+        pass
+
+    def detect_move(self):
+        pass

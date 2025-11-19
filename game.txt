@@ -1177,3 +1177,502 @@ Announcer started at 2025-11-06 14:44:04.068049
 [14:56:55] [Commentator] [INFO] White plays Bishop from d2 to b4
 [14:56:55] [Commentator] [INFO] Black (RobotArm) to move
 [14:56:55] [move] [DEBG] Waiting for move from player RobotArm...
+Announcer started at 2025-11-11 09:49:45.139295
+[09:49:45] [__init__] [DEBG] Game Setup Complete
+[09:49:45] [Main] [IMPT] Game Beginning...
+[09:49:45] [Main] [DEBG] Entering Main Game Loop
+[09:49:45] [Commentator] [INFO] White (RobotArm) to move
+[09:49:45] [move] [DEBG] Waiting for move from player RobotArm...
+Announcer started at 2025-11-20 04:36:53.387742
+[04:36:53] [__init__] [DEBG] Game Setup Complete
+[04:36:53] [Main] [IMPT] Game Beginning...
+[04:36:53] [Main] [DEBG] Entering Main Game Loop
+[04:36:53] [Commentator] [INFO] White (RobotArm) to move
+[04:36:53] [move] [DEBG] Waiting for move from player RobotArm...
+[04:37:03] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[04:37:03] [Commentator] [INFO] White plays Pawn from e2 to e4
+[04:37:03] [Commentator] [INFO] Black (RobotArm) to move
+[04:37:03] [move] [DEBG] Waiting for move from player RobotArm...
+[04:37:12] [move] [DEBG] Player RobotArm played move: e7e5, from e7 to e5 with promotion None, capture False, and piece p
+[04:37:12] [Commentator] [INFO] Black plays Pawn from e7 to e5
+[04:37:12] [Commentator] [INFO] White (RobotArm) to move
+[04:37:12] [move] [DEBG] Waiting for move from player RobotArm...
+[04:37:22] [move] [DEBG] Player RobotArm played move: g1f3, from g1 to f3 with promotion None, capture False, and piece N
+[04:37:22] [Commentator] [INFO] White plays Knight from g1 to f3
+[04:37:22] [Commentator] [INFO] Black (RobotArm) to move
+[04:37:22] [move] [DEBG] Waiting for move from player RobotArm...
+[04:37:32] [move] [DEBG] Player RobotArm played move: b8c6, from b8 to c6 with promotion None, capture False, and piece n
+[04:37:32] [Commentator] [INFO] Black plays Knight from b8 to c6
+[04:37:32] [Commentator] [INFO] White (RobotArm) to move
+[04:37:32] [move] [DEBG] Waiting for move from player RobotArm...
+[04:37:42] [move] [DEBG] Player RobotArm played move: f1b5, from f1 to b5 with promotion None, capture False, and piece B
+[04:37:42] [Commentator] [INFO] White plays Bishop from f1 to b5
+[04:37:42] [Commentator] [INFO] Black (RobotArm) to move
+[04:37:42] [move] [DEBG] Waiting for move from player RobotArm...
+[04:37:53] [move] [DEBG] Player RobotArm played move: g8f6, from g8 to f6 with promotion None, capture False, and piece n
+[04:37:53] [Commentator] [INFO] Black plays Knight from g8 to f6
+[04:37:53] [Commentator] [INFO] White (RobotArm) to move
+[04:37:53] [move] [DEBG] Waiting for move from player RobotArm...
+[04:38:02] [move] [DEBG] Player RobotArm played move: d2d3, from d2 to d3 with promotion None, capture False, and piece P
+[04:38:02] [Commentator] [INFO] White plays Pawn from d2 to d3
+[04:38:02] [Commentator] [INFO] Black (RobotArm) to move
+[04:38:02] [move] [DEBG] Waiting for move from player RobotArm...
+[04:38:13] [move] [DEBG] Player RobotArm played move: c6e7, from c6 to e7 with promotion None, capture False, and piece n
+[04:38:13] [Commentator] [INFO] Black plays Knight from c6 to e7
+[04:38:13] [Commentator] [INFO] White (RobotArm) to move
+[04:38:13] [move] [DEBG] Waiting for move from player RobotArm...
+[04:38:22] [move] [DEBG] Player RobotArm played move: d3d4, from d3 to d4 with promotion None, capture False, and piece P
+[04:38:22] [Commentator] [INFO] White plays Pawn from d3 to d4
+[04:38:22] [Commentator] [INFO] Black (RobotArm) to move
+[04:38:22] [move] [DEBG] Waiting for move from player RobotArm...
+[04:38:38] [move] [DEBG] Player RobotArm played move: f6e4, from f6 to e4 with promotion None, capture True, and piece n
+[04:38:38] [Commentator] [INFO] Black plays Knight from f6 to e4
+[04:38:38] [Commentator] [CAPT]  - captures Pawn
+[04:38:38] [Commentator] [INFO] White (RobotArm) to move
+[04:38:38] [move] [DEBG] Waiting for move from player RobotArm...
+[04:38:47] [move] [DEBG] Player RobotArm played move: d1e2, from d1 to e2 with promotion None, capture False, and piece Q
+[04:38:47] [Commentator] [INFO] White plays Queen from d1 to e2
+[04:38:47] [Commentator] [INFO] Black (RobotArm) to move
+[04:38:47] [move] [DEBG] Waiting for move from player RobotArm...
+[04:38:57] [move] [DEBG] Player RobotArm played move: e4d6, from e4 to d6 with promotion None, capture False, and piece n
+[04:38:57] [Commentator] [INFO] Black plays Knight from e4 to d6
+[04:38:57] [Commentator] [INFO] White (RobotArm) to move
+[04:38:57] [move] [DEBG] Waiting for move from player RobotArm...
+[04:39:12] [move] [DEBG] Player RobotArm played move: d4e5, from d4 to e5 with promotion None, capture True, and piece P
+[04:39:12] [Commentator] [INFO] White plays Pawn from d4 to e5
+[04:39:12] [Commentator] [CAPT]  - captures Pawn
+[04:39:12] [Commentator] [INFO] Black (RobotArm) to move
+[04:39:12] [move] [DEBG] Waiting for move from player RobotArm...
+[04:39:28] [move] [DEBG] Player RobotArm played move: d6b5, from d6 to b5 with promotion None, capture True, and piece n
+[04:39:28] [Commentator] [INFO] Black plays Knight from d6 to b5
+[04:39:28] [Commentator] [CAPT]  - captures Bishop
+[04:39:28] [Commentator] [INFO] White (RobotArm) to move
+[04:39:28] [move] [DEBG] Waiting for move from player RobotArm...
+Announcer started at 2025-11-20 04:40:53.584268
+[04:40:53] [__init__] [DEBG] Game Setup Complete
+[04:40:53] [Main] [IMPT] Game Beginning...
+[04:40:53] [Main] [DEBG] Entering Main Game Loop
+[04:40:53] [Commentator] [INFO] White (RobotArm) to move
+[04:40:53] [move] [DEBG] Waiting for move from player RobotArm...
+[04:41:03] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[04:41:03] [Commentator] [INFO] White plays Pawn from e2 to e4
+[04:41:03] [Commentator] [INFO] Black (RobotArm) to move
+[04:41:03] [move] [DEBG] Waiting for move from player RobotArm...
+[04:41:12] [move] [DEBG] Player RobotArm played move: e7e5, from e7 to e5 with promotion None, capture False, and piece p
+[04:41:12] [Commentator] [INFO] Black plays Pawn from e7 to e5
+[04:41:12] [Commentator] [INFO] White (RobotArm) to move
+[04:41:12] [move] [DEBG] Waiting for move from player RobotArm...
+[04:41:21] [move] [DEBG] Player RobotArm played move: g1f3, from g1 to f3 with promotion None, capture False, and piece N
+[04:41:21] [Commentator] [INFO] White plays Knight from g1 to f3
+[04:41:21] [Commentator] [INFO] Black (RobotArm) to move
+[04:41:21] [move] [DEBG] Waiting for move from player RobotArm...
+[04:41:32] [move] [DEBG] Player RobotArm played move: g8f6, from g8 to f6 with promotion None, capture False, and piece n
+[04:41:32] [Commentator] [INFO] Black plays Knight from g8 to f6
+[04:41:32] [Commentator] [INFO] White (RobotArm) to move
+[04:41:32] [move] [DEBG] Waiting for move from player RobotArm...
+[04:41:49] [move] [DEBG] Player RobotArm played move: f3e5, from f3 to e5 with promotion None, capture True, and piece N
+[04:41:49] [Commentator] [INFO] White plays Knight from f3 to e5
+[04:41:49] [Commentator] [CAPT]  - captures Pawn
+[04:41:49] [Commentator] [INFO] Black (RobotArm) to move
+[04:41:49] [move] [DEBG] Waiting for move from player RobotArm...
+[04:41:58] [move] [DEBG] Player RobotArm played move: d7d6, from d7 to d6 with promotion None, capture False, and piece p
+[04:41:58] [Commentator] [INFO] Black plays Pawn from d7 to d6
+[04:41:58] [Commentator] [INFO] White (RobotArm) to move
+[04:41:58] [move] [DEBG] Waiting for move from player RobotArm...
+[04:42:08] [move] [DEBG] Player RobotArm played move: e5f3, from e5 to f3 with promotion None, capture False, and piece N
+[04:42:08] [Commentator] [INFO] White plays Knight from e5 to f3
+[04:42:08] [Commentator] [INFO] Black (RobotArm) to move
+[04:42:08] [move] [DEBG] Waiting for move from player RobotArm...
+[04:42:24] [move] [DEBG] Player RobotArm played move: f6e4, from f6 to e4 with promotion None, capture True, and piece n
+[04:42:24] [Commentator] [INFO] Black plays Knight from f6 to e4
+[04:42:24] [Commentator] [CAPT]  - captures Pawn
+[04:42:24] [Commentator] [INFO] White (RobotArm) to move
+[04:42:24] [move] [DEBG] Waiting for move from player RobotArm...
+[04:42:33] [move] [DEBG] Player RobotArm played move: d2d4, from d2 to d4 with promotion None, capture False, and piece P
+[04:42:33] [Commentator] [INFO] White plays Pawn from d2 to d4
+[04:42:33] [Commentator] [INFO] Black (RobotArm) to move
+[04:42:33] [move] [DEBG] Waiting for move from player RobotArm...
+[04:42:43] [move] [DEBG] Player RobotArm played move: d6d5, from d6 to d5 with promotion None, capture False, and piece p
+[04:42:43] [Commentator] [INFO] Black plays Pawn from d6 to d5
+[04:42:43] [Commentator] [INFO] White (RobotArm) to move
+[04:42:43] [move] [DEBG] Waiting for move from player RobotArm...
+[04:42:53] [move] [DEBG] Player RobotArm played move: f1d3, from f1 to d3 with promotion None, capture False, and piece B
+[04:42:53] [Commentator] [INFO] White plays Bishop from f1 to d3
+[04:42:53] [Commentator] [INFO] Black (RobotArm) to move
+[04:42:53] [move] [DEBG] Waiting for move from player RobotArm...
+[04:43:03] [move] [DEBG] Player RobotArm played move: f8b4, from f8 to b4 with promotion None, capture False, and piece b
+[04:43:03] [Commentator] [INFO] Black plays Bishop from f8 to b4
+[04:43:03] [Commentator] [CHCK]  - gives check
+[04:43:03] [Commentator] [INFO] White (RobotArm) to move
+[04:43:03] [move] [DEBG] Waiting for move from player RobotArm...
+[04:43:12] [move] [DEBG] Player RobotArm played move: c2c3, from c2 to c3 with promotion None, capture False, and piece P
+[04:43:12] [Commentator] [INFO] White plays Pawn from c2 to c3
+[04:43:12] [Commentator] [INFO] Black (RobotArm) to move
+[04:43:12] [move] [DEBG] Waiting for move from player RobotArm...
+[04:43:23] [move] [DEBG] Player RobotArm played move: b4d6, from b4 to d6 with promotion None, capture False, and piece b
+[04:43:23] [Commentator] [INFO] Black plays Bishop from b4 to d6
+[04:43:23] [Commentator] [INFO] White (RobotArm) to move
+[04:43:23] [move] [DEBG] Waiting for move from player RobotArm...
+[04:43:34] [move] [DEBG] Player RobotArm played move: e1g1, from e1 to g1 with promotion None, capture False, and piece K
+[04:43:34] [Commentator] [INFO] White plays King from e1 to g1
+[04:43:34] [Commentator] [INFO] Black (RobotArm) to move
+[04:43:34] [move] [DEBG] Waiting for move from player RobotArm...
+[04:43:44] [move] [DEBG] Player RobotArm played move: c7c6, from c7 to c6 with promotion None, capture False, and piece p
+[04:43:44] [Commentator] [INFO] Black plays Pawn from c7 to c6
+[04:43:44] [Commentator] [INFO] White (RobotArm) to move
+[04:43:44] [move] [DEBG] Waiting for move from player RobotArm...
+[04:43:52] [move] [DEBG] Player RobotArm played move: f1e1, from f1 to e1 with promotion None, capture False, and piece R
+[04:43:52] [Commentator] [INFO] White plays Rook from f1 to e1
+[04:43:52] [Commentator] [INFO] Black (RobotArm) to move
+[04:43:52] [move] [DEBG] Waiting for move from player RobotArm...
+[04:44:08] [move] [DEBG] Player RobotArm played move: e8g8, from e8 to g8 with promotion None, capture False, and piece k
+[04:44:08] [Commentator] [INFO] Black plays King from e8 to g8
+[04:44:08] [Commentator] [INFO] White (RobotArm) to move
+[04:44:08] [move] [DEBG] Waiting for move from player RobotArm...
+[04:44:23] [move] [DEBG] Player RobotArm played move: d3e4, from d3 to e4 with promotion None, capture True, and piece B
+[04:44:23] [Commentator] [INFO] White plays Bishop from d3 to e4
+[04:44:23] [Commentator] [CAPT]  - captures Knight
+[04:44:23] [Commentator] [INFO] Black (RobotArm) to move
+[04:44:23] [move] [DEBG] Waiting for move from player RobotArm...
+[04:44:39] [move] [DEBG] Player RobotArm played move: d5e4, from d5 to e4 with promotion None, capture True, and piece p
+[04:44:39] [Commentator] [INFO] Black plays Pawn from d5 to e4
+[04:44:39] [Commentator] [CAPT]  - captures Bishop
+[04:44:39] [Commentator] [INFO] White (RobotArm) to move
+[04:44:39] [move] [DEBG] Waiting for move from player RobotArm...
+[04:44:53] [move] [DEBG] Player RobotArm played move: e1e4, from e1 to e4 with promotion None, capture True, and piece R
+[04:44:53] [Commentator] [INFO] White plays Rook from e1 to e4
+[04:44:53] [Commentator] [CAPT]  - captures Pawn
+[04:44:53] [Commentator] [INFO] Black (RobotArm) to move
+[04:44:53] [move] [DEBG] Waiting for move from player RobotArm...
+[04:45:04] [move] [DEBG] Player RobotArm played move: c8f5, from c8 to f5 with promotion None, capture False, and piece b
+[04:45:04] [Commentator] [INFO] Black plays Bishop from c8 to f5
+[04:45:04] [Commentator] [INFO] White (RobotArm) to move
+[04:45:04] [move] [DEBG] Waiting for move from player RobotArm...
+[04:45:13] [move] [DEBG] Player RobotArm played move: e4e1, from e4 to e1 with promotion None, capture False, and piece R
+[04:45:13] [Commentator] [INFO] White plays Rook from e4 to e1
+[04:45:13] [Commentator] [INFO] Black (RobotArm) to move
+[04:45:13] [move] [DEBG] Waiting for move from player RobotArm...
+[04:45:24] [move] [DEBG] Player RobotArm played move: b8d7, from b8 to d7 with promotion None, capture False, and piece n
+[04:45:24] [Commentator] [INFO] Black plays Knight from b8 to d7
+[04:45:24] [Commentator] [INFO] White (RobotArm) to move
+[04:45:24] [move] [DEBG] Waiting for move from player RobotArm...
+[04:45:34] [move] [DEBG] Player RobotArm played move: c1g5, from c1 to g5 with promotion None, capture False, and piece B
+[04:45:34] [Commentator] [INFO] White plays Bishop from c1 to g5
+[04:45:34] [Commentator] [INFO] Black (RobotArm) to move
+[04:45:34] [move] [DEBG] Waiting for move from player RobotArm...
+[04:45:45] [move] [DEBG] Player RobotArm played move: d8c7, from d8 to c7 with promotion None, capture False, and piece q
+[04:45:45] [Commentator] [INFO] Black plays Queen from d8 to c7
+[04:45:45] [Commentator] [INFO] White (RobotArm) to move
+[04:45:45] [move] [DEBG] Waiting for move from player RobotArm...
+[04:45:54] [move] [DEBG] Player RobotArm played move: b1d2, from b1 to d2 with promotion None, capture False, and piece N
+[04:45:54] [Commentator] [INFO] White plays Knight from b1 to d2
+[04:45:54] [Commentator] [INFO] Black (RobotArm) to move
+[04:45:54] [move] [DEBG] Waiting for move from player RobotArm...
+[04:46:04] [move] [DEBG] Player RobotArm played move: f8e8, from f8 to e8 with promotion None, capture False, and piece r
+[04:46:04] [Commentator] [INFO] Black plays Rook from f8 to e8
+[04:46:04] [Commentator] [INFO] White (RobotArm) to move
+[04:46:04] [move] [DEBG] Waiting for move from player RobotArm...
+[04:46:14] [move] [DEBG] Player RobotArm played move: g5h4, from g5 to h4 with promotion None, capture False, and piece B
+[04:46:14] [Commentator] [INFO] White plays Bishop from g5 to h4
+[04:46:14] [Commentator] [INFO] Black (RobotArm) to move
+[04:46:14] [move] [DEBG] Waiting for move from player RobotArm...
+[04:46:24] [move] [DEBG] Player RobotArm played move: h7h6, from h7 to h6 with promotion None, capture False, and piece p
+[04:46:24] [Commentator] [INFO] Black plays Pawn from h7 to h6
+[04:46:24] [Commentator] [INFO] White (RobotArm) to move
+[04:46:24] [move] [DEBG] Waiting for move from player RobotArm...
+[04:46:33] [move] [DEBG] Player RobotArm played move: a2a4, from a2 to a4 with promotion None, capture False, and piece P
+[04:46:33] [Commentator] [INFO] White plays Pawn from a2 to a4
+[04:46:33] [Commentator] [INFO] Black (RobotArm) to move
+[04:46:33] [move] [DEBG] Waiting for move from player RobotArm...
+[04:46:43] [move] [DEBG] Player RobotArm played move: f5e6, from f5 to e6 with promotion None, capture False, and piece b
+[04:46:43] [Commentator] [INFO] Black plays Bishop from f5 to e6
+[04:46:43] [Commentator] [INFO] White (RobotArm) to move
+[04:46:43] [move] [DEBG] Waiting for move from player RobotArm...
+[04:46:52] [move] [DEBG] Player RobotArm played move: d1c2, from d1 to c2 with promotion None, capture False, and piece Q
+[04:46:52] [Commentator] [INFO] White plays Queen from d1 to c2
+[04:46:52] [Commentator] [INFO] Black (RobotArm) to move
+[04:46:52] [move] [DEBG] Waiting for move from player RobotArm...
+[04:47:02] [move] [DEBG] Player RobotArm played move: c6c5, from c6 to c5 with promotion None, capture False, and piece p
+[04:47:02] [Commentator] [INFO] Black plays Pawn from c6 to c5
+[04:47:02] [Commentator] [INFO] White (RobotArm) to move
+[04:47:02] [move] [DEBG] Waiting for move from player RobotArm...
+[04:47:12] [move] [DEBG] Player RobotArm played move: d2e4, from d2 to e4 with promotion None, capture False, and piece N
+[04:47:12] [Commentator] [INFO] White plays Knight from d2 to e4
+[04:47:12] [Commentator] [INFO] Black (RobotArm) to move
+[04:47:12] [move] [DEBG] Waiting for move from player RobotArm...
+[04:47:22] [move] [DEBG] Player RobotArm played move: e6d5, from e6 to d5 with promotion None, capture False, and piece b
+[04:47:22] [Commentator] [INFO] Black plays Bishop from e6 to d5
+[04:47:22] [Commentator] [INFO] White (RobotArm) to move
+[04:47:22] [move] [DEBG] Waiting for move from player RobotArm...
+[04:47:37] [move] [DEBG] Player RobotArm played move: d4c5, from d4 to c5 with promotion None, capture True, and piece P
+[04:47:37] [Commentator] [INFO] White plays Pawn from d4 to c5
+[04:47:37] [Commentator] [CAPT]  - captures Pawn
+[04:47:37] [Commentator] [INFO] Black (RobotArm) to move
+[04:47:37] [move] [DEBG] Waiting for move from player RobotArm...
+[04:47:52] [move] [DEBG] Player RobotArm played move: d6c5, from d6 to c5 with promotion None, capture True, and piece b
+[04:47:52] [Commentator] [INFO] Black plays Bishop from d6 to c5
+[04:47:52] [Commentator] [CAPT]  - captures Pawn
+[04:47:52] [Commentator] [INFO] White (RobotArm) to move
+[04:47:52] [move] [DEBG] Waiting for move from player RobotArm...
+[04:48:08] [move] [DEBG] Player RobotArm played move: e4c5, from e4 to c5 with promotion None, capture True, and piece N
+[04:48:08] [Commentator] [INFO] White plays Knight from e4 to c5
+[04:48:08] [Commentator] [CAPT]  - captures Bishop
+[04:48:08] [Commentator] [INFO] Black (RobotArm) to move
+[04:48:08] [move] [DEBG] Waiting for move from player RobotArm...
+[04:48:23] [move] [DEBG] Player RobotArm played move: d7c5, from d7 to c5 with promotion None, capture True, and piece n
+[04:48:23] [Commentator] [INFO] Black plays Knight from d7 to c5
+[04:48:23] [Commentator] [CAPT]  - captures Knight
+[04:48:23] [Commentator] [INFO] White (RobotArm) to move
+[04:48:23] [move] [DEBG] Waiting for move from player RobotArm...
+[04:48:33] [move] [DEBG] Player RobotArm played move: f3d4, from f3 to d4 with promotion None, capture False, and piece N
+[04:48:33] [Commentator] [INFO] White plays Knight from f3 to d4
+[04:48:33] [Commentator] [INFO] Black (RobotArm) to move
+[04:48:33] [move] [DEBG] Waiting for move from player RobotArm...
+[04:48:44] [move] [DEBG] Player RobotArm played move: d5e4, from d5 to e4 with promotion None, capture False, and piece b
+[04:48:44] [Commentator] [INFO] Black plays Bishop from d5 to e4
+[04:48:44] [Commentator] [INFO] White (RobotArm) to move
+[04:48:44] [move] [DEBG] Waiting for move from player RobotArm...
+[04:48:52] [move] [DEBG] Player RobotArm played move: c2d2, from c2 to d2 with promotion None, capture False, and piece Q
+[04:48:52] [Commentator] [INFO] White plays Queen from c2 to d2
+[04:48:52] [Commentator] [INFO] Black (RobotArm) to move
+[04:48:52] [move] [DEBG] Waiting for move from player RobotArm...
+[04:49:02] [move] [DEBG] Player RobotArm played move: a7a5, from a7 to a5 with promotion None, capture False, and piece p
+[04:49:02] [Commentator] [INFO] Black plays Pawn from a7 to a5
+[04:49:02] [Commentator] [INFO] White (RobotArm) to move
+[04:49:02] [move] [DEBG] Waiting for move from player RobotArm...
+[04:49:11] [move] [DEBG] Player RobotArm played move: f2f3, from f2 to f3 with promotion None, capture False, and piece P
+[04:49:11] [Commentator] [INFO] White plays Pawn from f2 to f3
+[04:49:11] [Commentator] [INFO] Black (RobotArm) to move
+[04:49:11] [move] [DEBG] Waiting for move from player RobotArm...
+[04:49:22] [move] [DEBG] Player RobotArm played move: e4g6, from e4 to g6 with promotion None, capture False, and piece b
+[04:49:22] [Commentator] [INFO] Black plays Bishop from e4 to g6
+[04:49:22] [Commentator] [INFO] White (RobotArm) to move
+[04:49:22] [move] [DEBG] Waiting for move from player RobotArm...
+[04:49:30] [move] [DEBG] Player RobotArm played move: b2b3, from b2 to b3 with promotion None, capture False, and piece P
+[04:49:30] [Commentator] [INFO] White plays Pawn from b2 to b3
+[04:49:30] [Commentator] [INFO] Black (RobotArm) to move
+[04:49:30] [move] [DEBG] Waiting for move from player RobotArm...
+[04:49:40] [move] [DEBG] Player RobotArm played move: c5d3, from c5 to d3 with promotion None, capture False, and piece n
+[04:49:40] [Commentator] [INFO] Black plays Knight from c5 to d3
+[04:49:40] [Commentator] [INFO] White (RobotArm) to move
+[04:49:40] [move] [DEBG] Waiting for move from player RobotArm...
+[04:49:50] [move] [DEBG] Player RobotArm played move: d4b5, from d4 to b5 with promotion None, capture False, and piece N
+[04:49:50] [Commentator] [INFO] White plays Knight from d4 to b5
+[04:49:50] [Commentator] [INFO] Black (RobotArm) to move
+[04:49:50] [move] [DEBG] Waiting for move from player RobotArm...
+[04:50:00] [move] [DEBG] Player RobotArm played move: c7c6, from c7 to c6 with promotion None, capture False, and piece q
+[04:50:00] [Commentator] [INFO] Black plays Queen from c7 to c6
+[04:50:00] [Commentator] [INFO] White (RobotArm) to move
+[04:50:00] [move] [DEBG] Waiting for move from player RobotArm...
+[04:50:09] [move] [DEBG] Player RobotArm played move: e1d1, from e1 to d1 with promotion None, capture False, and piece R
+[04:50:09] [Commentator] [INFO] White plays Rook from e1 to d1
+[04:50:09] [Commentator] [INFO] Black (RobotArm) to move
+[04:50:09] [move] [DEBG] Waiting for move from player RobotArm...
+[04:50:18] [move] [DEBG] Player RobotArm played move: f7f6, from f7 to f6 with promotion None, capture False, and piece p
+[04:50:18] [Commentator] [INFO] Black plays Pawn from f7 to f6
+[04:50:18] [Commentator] [INFO] White (RobotArm) to move
+[04:50:18] [move] [DEBG] Waiting for move from player RobotArm...
+[04:50:27] [move] [DEBG] Player RobotArm played move: g1h1, from g1 to h1 with promotion None, capture False, and piece K
+[04:50:27] [Commentator] [INFO] White plays King from g1 to h1
+[04:50:27] [Commentator] [INFO] Black (RobotArm) to move
+[04:50:27] [move] [DEBG] Waiting for move from player RobotArm...
+[04:50:37] [move] [DEBG] Player RobotArm played move: a8d8, from a8 to d8 with promotion None, capture False, and piece r
+[04:50:37] [Commentator] [INFO] Black plays Rook from a8 to d8
+[04:50:37] [Commentator] [INFO] White (RobotArm) to move
+[04:50:37] [move] [DEBG] Waiting for move from player RobotArm...
+[04:50:47] [move] [DEBG] Player RobotArm played move: h4f2, from h4 to f2 with promotion None, capture False, and piece B
+[04:50:47] [Commentator] [INFO] White plays Bishop from h4 to f2
+[04:50:47] [Commentator] [INFO] Black (RobotArm) to move
+[04:50:47] [move] [DEBG] Waiting for move from player RobotArm...
+[04:51:03] [move] [DEBG] Player RobotArm played move: d3f2, from d3 to f2 with promotion None, capture True, and piece n
+[04:51:03] [Commentator] [INFO] Black plays Knight from d3 to f2
+[04:51:03] [Commentator] [CAPT]  - captures Bishop
+[04:51:03] [Commentator] [CHCK]  - gives check
+[04:51:03] [Commentator] [INFO] White (RobotArm) to move
+[04:51:03] [move] [DEBG] Waiting for move from player RobotArm...
+[04:51:18] [move] [DEBG] Player RobotArm played move: d2f2, from d2 to f2 with promotion None, capture True, and piece Q
+[04:51:18] [Commentator] [INFO] White plays Queen from d2 to f2
+[04:51:18] [Commentator] [CAPT]  - captures Knight
+[04:51:18] [Commentator] [INFO] Black (RobotArm) to move
+[04:51:18] [move] [DEBG] Waiting for move from player RobotArm...
+[04:51:28] [move] [DEBG] Player RobotArm played move: d8d3, from d8 to d3 with promotion None, capture False, and piece r
+[04:51:28] [Commentator] [INFO] Black plays Rook from d8 to d3
+[04:51:28] [Commentator] [INFO] White (RobotArm) to move
+[04:51:28] [move] [DEBG] Waiting for move from player RobotArm...
+[04:51:43] [move] [DEBG] Player RobotArm played move: d1d3, from d1 to d3 with promotion None, capture True, and piece R
+[04:51:43] [Commentator] [INFO] White plays Rook from d1 to d3
+[04:51:43] [Commentator] [CAPT]  - captures Rook
+[04:51:43] [Commentator] [INFO] Black (RobotArm) to move
+[04:51:43] [move] [DEBG] Waiting for move from player RobotArm...
+[04:51:59] [move] [DEBG] Player RobotArm played move: g6d3, from g6 to d3 with promotion None, capture True, and piece b
+[04:51:59] [Commentator] [INFO] Black plays Bishop from g6 to d3
+[04:51:59] [Commentator] [CAPT]  - captures Rook
+[04:51:59] [Commentator] [INFO] White (RobotArm) to move
+[04:51:59] [move] [DEBG] Waiting for move from player RobotArm...
+[04:52:09] [move] [DEBG] Player RobotArm played move: c3c4, from c3 to c4 with promotion None, capture False, and piece P
+[04:52:09] [Commentator] [INFO] White plays Pawn from c3 to c4
+[04:52:09] [Commentator] [INFO] Black (RobotArm) to move
+[04:52:09] [move] [DEBG] Waiting for move from player RobotArm...
+[04:52:20] [move] [DEBG] Player RobotArm played move: e8e2, from e8 to e2 with promotion None, capture False, and piece r
+[04:52:20] [Commentator] [INFO] Black plays Rook from e8 to e2
+[04:52:20] [Commentator] [INFO] White (RobotArm) to move
+[04:52:20] [move] [DEBG] Waiting for move from player RobotArm...
+[04:52:31] [move] [DEBG] Player RobotArm played move: f2a7, from f2 to a7 with promotion None, capture False, and piece Q
+[04:52:31] [Commentator] [INFO] White plays Queen from f2 to a7
+[04:52:31] [Commentator] [INFO] Black (RobotArm) to move
+[04:52:31] [move] [DEBG] Waiting for move from player RobotArm...
+[04:52:42] [move] [DEBG] Player RobotArm played move: c6e8, from c6 to e8 with promotion None, capture False, and piece q
+[04:52:42] [Commentator] [INFO] Black plays Queen from c6 to e8
+[04:52:42] [Commentator] [INFO] White (RobotArm) to move
+[04:52:42] [move] [DEBG] Waiting for move from player RobotArm...
+[04:52:51] [move] [DEBG] Player RobotArm played move: a1g1, from a1 to g1 with promotion None, capture False, and piece R
+[04:52:51] [Commentator] [INFO] White plays Rook from a1 to g1
+[04:52:51] [Commentator] [INFO] Black (RobotArm) to move
+[04:52:51] [move] [DEBG] Waiting for move from player RobotArm...
+[04:53:00] [move] [DEBG] Player RobotArm played move: e2e1, from e2 to e1 with promotion None, capture False, and piece r
+[04:53:00] [Commentator] [INFO] Black plays Rook from e2 to e1
+[04:53:00] [Commentator] [INFO] White (RobotArm) to move
+[04:53:00] [move] [DEBG] Waiting for move from player RobotArm...
+[04:53:11] [move] [DEBG] Player RobotArm played move: a7f2, from a7 to f2 with promotion None, capture False, and piece Q
+[04:53:11] [Commentator] [INFO] White plays Queen from a7 to f2
+[04:53:11] [Commentator] [INFO] Black (RobotArm) to move
+[04:53:11] [move] [DEBG] Waiting for move from player RobotArm...
+[04:53:20] [move] [DEBG] Player RobotArm played move: e1e2, from e1 to e2 with promotion None, capture False, and piece r
+[04:53:20] [Commentator] [INFO] Black plays Rook from e1 to e2
+[04:53:20] [Commentator] [INFO] White (RobotArm) to move
+[04:53:20] [move] [DEBG] Waiting for move from player RobotArm...
+[04:53:30] [move] [DEBG] Player RobotArm played move: f2c5, from f2 to c5 with promotion None, capture False, and piece Q
+[04:53:30] [Commentator] [INFO] White plays Queen from f2 to c5
+[04:53:30] [Commentator] [INFO] Black (RobotArm) to move
+[04:53:30] [move] [DEBG] Waiting for move from player RobotArm...
+[04:53:41] [move] [DEBG] Player RobotArm played move: d3g6, from d3 to g6 with promotion None, capture False, and piece b
+[04:53:41] [Commentator] [INFO] Black plays Bishop from d3 to g6
+[04:53:41] [Commentator] [INFO] White (RobotArm) to move
+[04:53:41] [move] [DEBG] Waiting for move from player RobotArm...
+[04:53:51] [move] [DEBG] Player RobotArm played move: b5d6, from b5 to d6 with promotion None, capture False, and piece N
+[04:53:51] [Commentator] [INFO] White plays Knight from b5 to d6
+[04:53:51] [Commentator] [INFO] Black (RobotArm) to move
+[04:53:51] [move] [DEBG] Waiting for move from player RobotArm...
+[04:54:02] [move] [DEBG] Player RobotArm played move: e8e7, from e8 to e7 with promotion None, capture False, and piece q
+[04:54:02] [Commentator] [INFO] Black plays Queen from e8 to e7
+[04:54:02] [Commentator] [INFO] White (RobotArm) to move
+[04:54:02] [move] [DEBG] Waiting for move from player RobotArm...
+[04:54:11] [move] [DEBG] Player RobotArm played move: c5d5, from c5 to d5 with promotion None, capture False, and piece Q
+[04:54:11] [Commentator] [INFO] White plays Queen from c5 to d5
+[04:54:11] [Commentator] [CHCK]  - gives check
+[04:54:11] [Commentator] [INFO] Black (RobotArm) to move
+[04:54:11] [move] [DEBG] Waiting for move from player RobotArm...
+[04:54:21] [move] [DEBG] Player RobotArm played move: g8h7, from g8 to h7 with promotion None, capture False, and piece k
+[04:54:21] [Commentator] [INFO] Black plays King from g8 to h7
+[04:54:21] [Commentator] [INFO] White (RobotArm) to move
+[04:54:21] [move] [DEBG] Waiting for move from player RobotArm...
+[04:54:31] [move] [DEBG] Player RobotArm played move: d5d4, from d5 to d4 with promotion None, capture False, and piece Q
+[04:54:31] [Commentator] [INFO] White plays Queen from d5 to d4
+[04:54:31] [Commentator] [INFO] Black (RobotArm) to move
+[04:54:31] [move] [DEBG] Waiting for move from player RobotArm...
+[04:54:40] [move] [DEBG] Player RobotArm played move: e2e3, from e2 to e3 with promotion None, capture False, and piece r
+[04:54:40] [Commentator] [INFO] Black plays Rook from e2 to e3
+[04:54:40] [Commentator] [INFO] White (RobotArm) to move
+[04:54:40] [move] [DEBG] Waiting for move from player RobotArm...
+[04:54:55] [move] [DEBG] Player RobotArm played move: d6b7, from d6 to b7 with promotion None, capture True, and piece N
+[04:54:55] [Commentator] [INFO] White plays Knight from d6 to b7
+[04:54:55] [Commentator] [CAPT]  - captures Pawn
+[04:54:55] [Commentator] [INFO] Black (RobotArm) to move
+[04:54:55] [move] [DEBG] Waiting for move from player RobotArm...
+[04:55:10] [move] [DEBG] Player RobotArm played move: e3b3, from e3 to b3 with promotion None, capture True, and piece r
+[04:55:10] [Commentator] [INFO] Black plays Rook from e3 to b3
+[04:55:10] [Commentator] [CAPT]  - captures Pawn
+[04:55:10] [Commentator] [INFO] White (RobotArm) to move
+[04:55:10] [move] [DEBG] Waiting for move from player RobotArm...
+[04:55:25] [move] [DEBG] Player RobotArm played move: b7a5, from b7 to a5 with promotion None, capture True, and piece N
+[04:55:25] [Commentator] [INFO] White plays Knight from b7 to a5
+[04:55:25] [Commentator] [CAPT]  - captures Pawn
+[04:55:25] [Commentator] [INFO] Black (RobotArm) to move
+[04:55:25] [move] [DEBG] Waiting for move from player RobotArm...
+[04:55:34] [move] [DEBG] Player RobotArm played move: b3d3, from b3 to d3 with promotion None, capture False, and piece r
+[04:55:34] [Commentator] [INFO] Black plays Rook from b3 to d3
+[04:55:34] [Commentator] [INFO] White (RobotArm) to move
+[04:55:34] [move] [DEBG] Waiting for move from player RobotArm...
+[04:55:45] [move] [DEBG] Player RobotArm played move: d4b6, from d4 to b6 with promotion None, capture False, and piece Q
+[04:55:45] [Commentator] [INFO] White plays Queen from d4 to b6
+[04:55:45] [Commentator] [INFO] Black (RobotArm) to move
+[04:55:45] [move] [DEBG] Waiting for move from player RobotArm...
+[04:55:55] [move] [DEBG] Player RobotArm played move: e7a3, from e7 to a3 with promotion None, capture False, and piece q
+[04:55:55] [Commentator] [INFO] Black plays Queen from e7 to a3
+[04:55:55] [Commentator] [INFO] White (RobotArm) to move
+[04:55:55] [move] [DEBG] Waiting for move from player RobotArm...
+[04:56:06] [move] [DEBG] Player RobotArm played move: a5c6, from a5 to c6 with promotion None, capture False, and piece N
+[04:56:06] [Commentator] [INFO] White plays Knight from a5 to c6
+[04:56:06] [Commentator] [INFO] Black (RobotArm) to move
+[04:56:06] [move] [DEBG] Waiting for move from player RobotArm...
+[04:56:21] [move] [DEBG] Player RobotArm played move: a3a4, from a3 to a4 with promotion None, capture True, and piece q
+[04:56:21] [Commentator] [INFO] Black plays Queen from a3 to a4
+[04:56:21] [Commentator] [CAPT]  - captures Pawn
+[04:56:21] [Commentator] [INFO] White (RobotArm) to move
+[04:56:21] [move] [DEBG] Waiting for move from player RobotArm...
+[04:56:30] [move] [DEBG] Player RobotArm played move: c4c5, from c4 to c5 with promotion None, capture False, and piece P
+[04:56:30] [Commentator] [INFO] White plays Pawn from c4 to c5
+[04:56:30] [Commentator] [INFO] Black (RobotArm) to move
+[04:56:30] [move] [DEBG] Waiting for move from player RobotArm...
+[04:56:40] [move] [DEBG] Player RobotArm played move: d3d1, from d3 to d1 with promotion None, capture False, and piece r
+[04:56:40] [Commentator] [INFO] Black plays Rook from d3 to d1
+[04:56:40] [Commentator] [INFO] White (RobotArm) to move
+[04:56:40] [move] [DEBG] Waiting for move from player RobotArm...
+[04:56:49] [move] [DEBG] Player RobotArm played move: h2h3, from h2 to h3 with promotion None, capture False, and piece P
+[04:56:49] [Commentator] [INFO] White plays Pawn from h2 to h3
+[04:56:49] [Commentator] [INFO] Black (RobotArm) to move
+[04:56:49] [move] [DEBG] Waiting for move from player RobotArm...
+[04:57:03] [move] [DEBG] Player RobotArm played move: d1g1, from d1 to g1 with promotion None, capture True, and piece r
+[04:57:03] [Commentator] [INFO] Black plays Rook from d1 to g1
+[04:57:03] [Commentator] [CAPT]  - captures Rook
+[04:57:03] [Commentator] [CHCK]  - gives check
+[04:57:03] [Commentator] [INFO] White (RobotArm) to move
+[04:57:03] [move] [DEBG] Waiting for move from player RobotArm...
+[04:57:18] [move] [DEBG] Player RobotArm played move: h1g1, from h1 to g1 with promotion None, capture True, and piece K
+[04:57:18] [Commentator] [INFO] White plays King from h1 to g1
+[04:57:18] [Commentator] [CAPT]  - captures Rook
+[04:57:18] [Commentator] [INFO] Black (RobotArm) to move
+[04:57:18] [move] [DEBG] Waiting for move from player RobotArm...
+[04:57:28] [move] [DEBG] Player RobotArm played move: a4d1, from a4 to d1 with promotion None, capture False, and piece q
+[04:57:28] [Commentator] [INFO] Black plays Queen from a4 to d1
+[04:57:28] [Commentator] [CHCK]  - gives check
+[04:57:28] [Commentator] [INFO] White (RobotArm) to move
+[04:57:28] [move] [DEBG] Waiting for move from player RobotArm...
+[04:57:38] [move] [DEBG] Player RobotArm played move: g1h2, from g1 to h2 with promotion None, capture False, and piece K
+[04:57:38] [Commentator] [INFO] White plays King from g1 to h2
+[04:57:38] [Commentator] [INFO] Black (RobotArm) to move
+[04:57:38] [move] [DEBG] Waiting for move from player RobotArm...
+[04:57:47] [move] [DEBG] Player RobotArm played move: d1d5, from d1 to d5 with promotion None, capture False, and piece q
+[04:57:47] [Commentator] [INFO] Black plays Queen from d1 to d5
+[04:57:47] [Commentator] [INFO] White (RobotArm) to move
+[04:57:47] [move] [DEBG] Waiting for move from player RobotArm...
+[04:57:56] [move] [DEBG] Player RobotArm played move: h2g1, from h2 to g1 with promotion None, capture False, and piece K
+[04:57:56] [Commentator] [INFO] White plays King from h2 to g1
+[04:57:56] [Commentator] [INFO] Black (RobotArm) to move
+[04:57:56] [move] [DEBG] Waiting for move from player RobotArm...
+[04:58:08] [move] [DEBG] Player RobotArm played move: g6e8, from g6 to e8 with promotion None, capture False, and piece b
+[04:58:08] [Commentator] [INFO] Black plays Bishop from g6 to e8
+[04:58:08] [Commentator] [INFO] White (RobotArm) to move
+[04:58:08] [move] [DEBG] Waiting for move from player RobotArm...
+[04:58:18] [move] [DEBG] Player RobotArm played move: c6b4, from c6 to b4 with promotion None, capture False, and piece N
+[04:58:18] [Commentator] [INFO] White plays Knight from c6 to b4
+[04:58:18] [Commentator] [INFO] Black (RobotArm) to move
+[04:58:18] [move] [DEBG] Waiting for move from player RobotArm...
+[04:58:27] [move] [DEBG] Player RobotArm played move: d5d4, from d5 to d4 with promotion None, capture False, and piece q
+[04:58:27] [Commentator] [INFO] Black plays Queen from d5 to d4
+[04:58:27] [Commentator] [CHCK]  - gives check
+[04:58:27] [Commentator] [INFO] White (RobotArm) to move
+[04:58:27] [move] [DEBG] Waiting for move from player RobotArm...
+[04:58:36] [move] [DEBG] Player RobotArm played move: g1h1, from g1 to h1 with promotion None, capture False, and piece K
+[04:58:36] [Commentator] [INFO] White plays King from g1 to h1
+[04:58:36] [Commentator] [INFO] Black (RobotArm) to move
+[04:58:36] [move] [DEBG] Waiting for move from player RobotArm...
+[04:58:46] [move] [DEBG] Player RobotArm played move: d4a1, from d4 to a1 with promotion None, capture False, and piece q
+[04:58:46] [Commentator] [INFO] Black plays Queen from d4 to a1
+[04:58:46] [Commentator] [CHCK]  - gives check
+[04:58:46] [Commentator] [INFO] White (RobotArm) to move
+[04:58:46] [move] [DEBG] Waiting for move from player RobotArm...
+[04:58:54] [move] [DEBG] Player RobotArm played move: h1h2, from h1 to h2 with promotion None, capture False, and piece K
+[04:58:54] [Commentator] [INFO] White plays King from h1 to h2
+[04:58:54] [Commentator] [INFO] Black (RobotArm) to move
+[04:58:54] [move] [DEBG] Waiting for move from player RobotArm...
