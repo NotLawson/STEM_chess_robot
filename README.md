@@ -1,4 +1,10 @@
 # Chess Robot
+
+I will write a proper readme at somepoint, but it's like 10pm and I need sleep...
+
+The most interesting files are main.py, players/robotarm.py and players/human.py. cv2test.py might also be of interest.
+
+## (2024 Version)
 For STEM this term, we had to create a passion project. For my task, I will be making a robotic arm play chess
 
 In the back of the STEM room, we have 2 uArm Swift Pro desktop robotic arms. These arms move (relatively) fast, and have a suction cup.
