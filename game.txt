@@ -1676,3 +1676,3623 @@ Announcer started at 2025-11-20 04:40:53.584268
 [04:58:54] [Commentator] [INFO] White plays King from h1 to h2
 [04:58:54] [Commentator] [INFO] Black (RobotArm) to move
 [04:58:54] [move] [DEBG] Waiting for move from player RobotArm...
+Announcer started at 2025-11-21 12:40:06.622210
+[12:40:06] [__init__] [DEBG] Game Setup Complete
+[12:40:07] [Main] [IMPT] Game Beginning...
+[12:40:07] [Main] [DEBG] Entering Main Game Loop
+[12:40:07] [Commentator] [INFO] White (RobotArm) to move
+[12:40:07] [move] [DEBG] Waiting for move from player RobotArm...
+[12:40:15] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[12:40:15] [Commentator] [INFO] White plays Pawn from e2 to e4
+[12:40:15] [Commentator] [INFO] Black (Human) to move
+[12:40:15] [move] [DEBG] Waiting for move from player Human...
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:18] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:19] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:20] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:21] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:22] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:23] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:24] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:24] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:24] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:24] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:24] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:24] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:24] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:24] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:24] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:24] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:24] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:40:24] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+Announcer started at 2025-11-21 12:42:25.436181
+[12:42:25] [__init__] [DEBG] Game Setup Complete
+[12:42:25] [Main] [IMPT] Game Beginning...
+[12:42:25] [Main] [DEBG] Entering Main Game Loop
+[12:42:25] [Commentator] [INFO] White (RobotArm) to move
+[12:42:25] [move] [DEBG] Waiting for move from player RobotArm...
+[12:42:34] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[12:42:34] [Commentator] [INFO] White plays Pawn from e2 to e4
+[12:42:34] [Commentator] [INFO] Black (Human) to move
+[12:42:34] [move] [DEBG] Waiting for move from player Human...
+[12:42:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:38] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:39] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:40] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:41] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:42] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:43] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:43] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:43] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:43] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:43] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:42:43] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+Announcer started at 2025-11-21 12:45:23.732858
+[12:45:23] [__init__] [DEBG] Game Setup Complete
+[12:45:23] [Main] [IMPT] Game Beginning...
+[12:45:24] [Main] [DEBG] Entering Main Game Loop
+[12:45:24] [Commentator] [INFO] White (RobotArm) to move
+[12:45:24] [move] [DEBG] Waiting for move from player RobotArm...
+[12:45:33] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[12:45:33] [Commentator] [INFO] White plays Pawn from e2 to e4
+[12:45:33] [Commentator] [INFO] Black (Human) to move
+[12:45:33] [move] [DEBG] Waiting for move from player Human...
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:35] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:36] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:45:37] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+Announcer started at 2025-11-21 12:51:42.692795
+[12:51:42] [__init__] [DEBG] Game Setup Complete
+[12:51:42] [Main] [IMPT] Game Beginning...
+[12:51:42] [Main] [DEBG] Entering Main Game Loop
+[12:51:42] [Commentator] [INFO] White (RobotArm) to move
+[12:51:42] [move] [DEBG] Waiting for move from player RobotArm...
+[12:51:52] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[12:51:52] [Commentator] [INFO] White plays Pawn from e2 to e4
+[12:51:52] [Commentator] [INFO] Black (Human) to move
+[12:51:52] [move] [DEBG] Waiting for move from player Human...
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:52] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:53] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:54] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+[12:51:55] [move] [DEBG] Error occurred: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numerical tuple
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+Announcer started at 2025-11-21 12:54:30.402720
+[12:54:30] [__init__] [DEBG] Game Setup Complete
+[12:54:30] [Main] [IMPT] Game Beginning...
+[12:54:30] [Main] [DEBG] Entering Main Game Loop
+[12:54:30] [Commentator] [INFO] White (RobotArm) to move
+[12:54:30] [move] [DEBG] Waiting for move from player RobotArm...
+[12:54:39] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[12:54:39] [Commentator] [INFO] White plays Pawn from e2 to e4
+[12:54:39] [Commentator] [INFO] Black (Human) to move
+[12:54:39] [move] [DEBG] Waiting for move from player Human...
+[12:54:39] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:39] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:39] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:39] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:39] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:39] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:39] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:39] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:39] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:39] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:39] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:39] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:40] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:41] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:42] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+[12:54:43] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+Announcer started at 2025-11-21 12:56:09.522074
+[12:56:09] [__init__] [DEBG] Game Setup Complete
+[12:56:09] [Main] [IMPT] Game Beginning...
+[12:56:09] [Main] [DEBG] Entering Main Game Loop
+[12:56:09] [Commentator] [INFO] White (RobotArm) to move
+[12:56:09] [move] [DEBG] Waiting for move from player RobotArm...
+[12:56:18] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[12:56:18] [Commentator] [INFO] White plays Pawn from e2 to e4
+[12:56:18] [Commentator] [INFO] Black (Human) to move
+[12:56:18] [move] [DEBG] Waiting for move from player Human...
+[12:56:18] [move] [DEBG] Error occurred: too many values to unpack (expected 2)
+Announcer started at 2025-11-21 12:57:23.455449
+[12:57:23] [__init__] [DEBG] Game Setup Complete
+[12:57:23] [Main] [IMPT] Game Beginning...
+[12:57:23] [Main] [DEBG] Entering Main Game Loop
+[12:57:23] [Commentator] [INFO] White (RobotArm) to move
+[12:57:23] [move] [DEBG] Waiting for move from player RobotArm...
+[12:57:32] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[12:57:32] [Commentator] [INFO] White plays Pawn from e2 to e4
+[12:57:32] [Commentator] [INFO] Black (Human) to move
+[12:57:32] [move] [DEBG] Waiting for move from player Human...
+Announcer started at 2025-11-21 12:59:55.939539
+[12:59:55] [__init__] [DEBG] Game Setup Complete
+[12:59:56] [Main] [IMPT] Game Beginning...
+[12:59:56] [Main] [DEBG] Entering Main Game Loop
+[12:59:56] [Commentator] [INFO] White (RobotArm) to move
+[12:59:56] [move] [DEBG] Waiting for move from player RobotArm...
+[13:00:06] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[13:00:06] [Commentator] [INFO] White plays Pawn from e2 to e4
+[13:00:06] [Commentator] [INFO] Black (Human) to move
+[13:00:06] [move] [DEBG] Waiting for move from player Human...
+Announcer started at 2025-11-21 13:01:36.230509
+[13:01:36] [__init__] [DEBG] Game Setup Complete
+[13:01:36] [Main] [IMPT] Game Beginning...
+[13:01:36] [Main] [DEBG] Entering Main Game Loop
+[13:01:36] [Commentator] [INFO] White (RobotArm) to move
+[13:01:36] [move] [DEBG] Waiting for move from player RobotArm...
+[13:01:45] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[13:01:45] [Commentator] [INFO] White plays Pawn from e2 to e4
+[13:01:45] [Commentator] [INFO] Black (Human) to move
+[13:01:45] [move] [DEBG] Waiting for move from player Human...
+Announcer started at 2025-11-21 13:02:40.662986
+[13:02:40] [__init__] [DEBG] Game Setup Complete
+[13:02:41] [Main] [IMPT] Game Beginning...
+[13:02:41] [Main] [DEBG] Entering Main Game Loop
+[13:02:41] [Commentator] [INFO] White (RobotArm) to move
+[13:02:41] [move] [DEBG] Waiting for move from player RobotArm...
+[13:02:49] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[13:02:49] [Commentator] [INFO] White plays Pawn from e2 to e4
+[13:02:49] [Commentator] [INFO] Black (Human) to move
+[13:02:49] [move] [DEBG] Waiting for move from player Human...
+Announcer started at 2025-11-21 13:04:22.235110
+[13:04:22] [__init__] [DEBG] Game Setup Complete
+[13:04:22] [Main] [IMPT] Game Beginning...
+[13:04:22] [Main] [DEBG] Entering Main Game Loop
+[13:04:22] [Commentator] [INFO] White (RobotArm) to move
+[13:04:22] [move] [DEBG] Waiting for move from player RobotArm...
+[13:04:31] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[13:04:31] [Commentator] [INFO] White plays Pawn from e2 to e4
+[13:04:31] [Commentator] [INFO] Black (Human) to move
+[13:04:31] [move] [DEBG] Waiting for move from player Human...
+Announcer started at 2025-11-21 13:08:32.711727
+[13:08:32] [__init__] [DEBG] Game Setup Complete
+[13:08:32] [Main] [IMPT] Game Beginning...
+[13:08:32] [Main] [DEBG] Entering Main Game Loop
+[13:08:32] [Commentator] [INFO] White (RobotArm) to move
+[13:08:32] [move] [DEBG] Waiting for move from player RobotArm...
+[13:08:42] [move] [DEBG] Player RobotArm played move: e2e4, from e2 to e4 with promotion None, capture False, and piece P
+[13:08:42] [Commentator] [INFO] White plays Pawn from e2 to e4
+[13:08:42] [Commentator] [INFO] Black (RobotArm) to move
+[13:08:42] [move] [DEBG] Waiting for move from player RobotArm...
+[13:08:51] [move] [DEBG] Player RobotArm played move: e7e5, from e7 to e5 with promotion None, capture False, and piece p
+[13:08:51] [Commentator] [INFO] Black plays Pawn from e7 to e5
+[13:08:51] [Commentator] [INFO] White (RobotArm) to move
+[13:08:51] [move] [DEBG] Waiting for move from player RobotArm...
+[13:09:01] [move] [DEBG] Player RobotArm played move: g1f3, from g1 to f3 with promotion None, capture False, and piece N
+[13:09:01] [Commentator] [INFO] White plays Knight from g1 to f3
+[13:09:01] [Commentator] [INFO] Black (RobotArm) to move
+[13:09:01] [move] [DEBG] Waiting for move from player RobotArm...
+[13:09:11] [move] [DEBG] Player RobotArm played move: b8c6, from b8 to c6 with promotion None, capture False, and piece n
+[13:09:11] [Commentator] [INFO] Black plays Knight from b8 to c6
+[13:09:11] [Commentator] [INFO] White (RobotArm) to move
+[13:09:11] [move] [DEBG] Waiting for move from player RobotArm...
+[13:09:21] [move] [DEBG] Player RobotArm played move: f1b5, from f1 to b5 with promotion None, capture False, and piece B
+[13:09:21] [Commentator] [INFO] White plays Bishop from f1 to b5
+[13:09:21] [Commentator] [INFO] Black (RobotArm) to move
+[13:09:21] [move] [DEBG] Waiting for move from player RobotArm...
+[13:09:31] [move] [DEBG] Player RobotArm played move: a7a6, from a7 to a6 with promotion None, capture False, and piece p
+[13:09:31] [Commentator] [INFO] Black plays Pawn from a7 to a6
+[13:09:31] [Commentator] [INFO] White (RobotArm) to move
+[13:09:31] [move] [DEBG] Waiting for move from player RobotArm...
+[13:09:41] [move] [DEBG] Player RobotArm played move: b5a4, from b5 to a4 with promotion None, capture False, and piece B
+[13:09:41] [Commentator] [INFO] White plays Bishop from b5 to a4
+[13:09:41] [Commentator] [INFO] Black (RobotArm) to move
+[13:09:41] [move] [DEBG] Waiting for move from player RobotArm...
+[13:09:51] [move] [DEBG] Player RobotArm played move: g8f6, from g8 to f6 with promotion None, capture False, and piece n
+[13:09:51] [Commentator] [INFO] Black plays Knight from g8 to f6
+[13:09:51] [Commentator] [INFO] White (RobotArm) to move
+[13:09:51] [move] [DEBG] Waiting for move from player RobotArm...
+[13:10:06] [move] [DEBG] Player RobotArm played move: a4c6, from a4 to c6 with promotion None, capture True, and piece B
+[13:10:06] [Commentator] [INFO] White plays Bishop from a4 to c6
+[13:10:06] [Commentator] [CAPT]  - captures Knight
+[13:10:06] [Commentator] [INFO] Black (RobotArm) to move
+[13:10:06] [move] [DEBG] Waiting for move from player RobotArm...
+[13:10:23] [move] [DEBG] Player RobotArm played move: d7c6, from d7 to c6 with promotion None, capture True, and piece p
+[13:10:23] [Commentator] [INFO] Black plays Pawn from d7 to c6
+[13:10:23] [Commentator] [CAPT]  - captures Bishop
+[13:10:23] [Commentator] [INFO] White (RobotArm) to move
+[13:10:23] [move] [DEBG] Waiting for move from player RobotArm...
+[13:10:31] [move] [DEBG] Player RobotArm played move: d2d3, from d2 to d3 with promotion None, capture False, and piece P
+[13:10:31] [Commentator] [INFO] White plays Pawn from d2 to d3
+[13:10:31] [Commentator] [INFO] Black (RobotArm) to move
+[13:10:31] [move] [DEBG] Waiting for move from player RobotArm...
+[13:10:42] [move] [DEBG] Player RobotArm played move: f8d6, from f8 to d6 with promotion None, capture False, and piece b
+[13:10:42] [Commentator] [INFO] Black plays Bishop from f8 to d6
+[13:10:42] [Commentator] [INFO] White (RobotArm) to move
+[13:10:42] [move] [DEBG] Waiting for move from player RobotArm...
+[13:10:51] [move] [DEBG] Player RobotArm played move: h2h3, from h2 to h3 with promotion None, capture False, and piece P
+[13:10:51] [Commentator] [INFO] White plays Pawn from h2 to h3
+[13:10:51] [Commentator] [INFO] Black (RobotArm) to move
+[13:10:51] [move] [DEBG] Waiting for move from player RobotArm...
+[13:11:01] [move] [DEBG] Player RobotArm played move: h7h6, from h7 to h6 with promotion None, capture False, and piece p
+[13:11:01] [Commentator] [INFO] Black plays Pawn from h7 to h6
+[13:11:01] [Commentator] [INFO] White (RobotArm) to move
+[13:11:01] [move] [DEBG] Waiting for move from player RobotArm...
+[13:11:10] [move] [DEBG] Player RobotArm played move: b1d2, from b1 to d2 with promotion None, capture False, and piece N
+[13:11:10] [Commentator] [INFO] White plays Knight from b1 to d2
+[13:11:10] [Commentator] [INFO] Black (RobotArm) to move
+[13:11:10] [move] [DEBG] Waiting for move from player RobotArm...
+[13:11:21] [move] [DEBG] Player RobotArm played move: c8e6, from c8 to e6 with promotion None, capture False, and piece b
+[13:11:21] [Commentator] [INFO] Black plays Bishop from c8 to e6
+[13:11:21] [Commentator] [INFO] White (RobotArm) to move
+[13:11:21] [move] [DEBG] Waiting for move from player RobotArm...
+[13:11:30] [move] [DEBG] Player RobotArm played move: b2b3, from b2 to b3 with promotion None, capture False, and piece P
+[13:11:30] [Commentator] [INFO] White plays Pawn from b2 to b3
+[13:11:30] [Commentator] [INFO] Black (RobotArm) to move
+[13:11:30] [move] [DEBG] Waiting for move from player RobotArm...
+[13:11:41] [move] [DEBG] Player RobotArm played move: d8e7, from d8 to e7 with promotion None, capture False, and piece q
+[13:11:41] [Commentator] [INFO] Black plays Queen from d8 to e7
+[13:11:41] [Commentator] [INFO] White (RobotArm) to move
+[13:11:41] [move] [DEBG] Waiting for move from player RobotArm...
+[13:11:50] [move] [DEBG] Player RobotArm played move: c1b2, from c1 to b2 with promotion None, capture False, and piece B
+[13:11:50] [Commentator] [INFO] White plays Bishop from c1 to b2
+[13:11:50] [Commentator] [INFO] Black (RobotArm) to move
+[13:11:50] [move] [DEBG] Waiting for move from player RobotArm...
+[13:12:01] [move] [DEBG] Player RobotArm played move: f6d7, from f6 to d7 with promotion None, capture False, and piece n
+[13:12:01] [Commentator] [INFO] Black plays Knight from f6 to d7
+[13:12:01] [Commentator] [INFO] White (RobotArm) to move
+[13:12:01] [move] [DEBG] Waiting for move from player RobotArm...
+[13:12:10] [move] [DEBG] Player RobotArm played move: d1e2, from d1 to e2 with promotion None, capture False, and piece Q
+[13:12:10] [Commentator] [INFO] White plays Queen from d1 to e2
+[13:12:10] [Commentator] [INFO] Black (RobotArm) to move
+[13:12:10] [move] [DEBG] Waiting for move from player RobotArm...
+[13:12:26] [move] [DEBG] Player RobotArm played move: e8c8, from e8 to c8 with promotion None, capture False, and piece k
+[13:12:26] [Commentator] [INFO] Black plays King from e8 to c8
+[13:12:26] [Commentator] [INFO] White (RobotArm) to move
+[13:12:26] [move] [DEBG] Waiting for move from player RobotArm...
+[13:12:38] [move] [DEBG] Player RobotArm played move: e1c1, from e1 to c1 with promotion None, capture False, and piece K
+[13:12:38] [Commentator] [INFO] White plays King from e1 to c1
+[13:12:38] [Commentator] [INFO] Black (RobotArm) to move
+[13:12:38] [move] [DEBG] Waiting for move from player RobotArm...
+[13:12:48] [move] [DEBG] Player RobotArm played move: c8b8, from c8 to b8 with promotion None, capture False, and piece k
+[13:12:48] [Commentator] [INFO] Black plays King from c8 to b8
+[13:12:48] [Commentator] [INFO] White (RobotArm) to move
+[13:12:48] [move] [DEBG] Waiting for move from player RobotArm...
+[13:12:58] [move] [DEBG] Player RobotArm played move: d3d4, from d3 to d4 with promotion None, capture False, and piece P
+[13:12:58] [Commentator] [INFO] White plays Pawn from d3 to d4
+[13:12:58] [Commentator] [INFO] Black (RobotArm) to move
+[13:12:58] [move] [DEBG] Waiting for move from player RobotArm...
+[13:13:07] [move] [DEBG] Player RobotArm played move: f7f6, from f7 to f6 with promotion None, capture False, and piece p
+[13:13:07] [Commentator] [INFO] Black plays Pawn from f7 to f6
+[13:13:07] [Commentator] [INFO] White (RobotArm) to move
+[13:13:07] [move] [DEBG] Waiting for move from player RobotArm...
+[13:13:23] [move] [DEBG] Player RobotArm played move: d4e5, from d4 to e5 with promotion None, capture True, and piece P
+[13:13:23] [Commentator] [INFO] White plays Pawn from d4 to e5
+[13:13:23] [Commentator] [CAPT]  - captures Pawn
+[13:13:23] [Commentator] [INFO] Black (RobotArm) to move
+[13:13:23] [move] [DEBG] Waiting for move from player RobotArm...
+[13:13:39] [move] [DEBG] Player RobotArm played move: f6e5, from f6 to e5 with promotion None, capture True, and piece p
+[13:13:39] [Commentator] [INFO] Black plays Pawn from f6 to e5
+[13:13:39] [Commentator] [CAPT]  - captures Pawn
+[13:13:39] [Commentator] [INFO] White (RobotArm) to move
+[13:13:39] [move] [DEBG] Waiting for move from player RobotArm...
+[13:13:48] [move] [DEBG] Player RobotArm played move: c1b1, from c1 to b1 with promotion None, capture False, and piece K
+[13:13:48] [Commentator] [INFO] White plays King from c1 to b1
+[13:13:48] [Commentator] [INFO] Black (RobotArm) to move
+[13:13:48] [move] [DEBG] Waiting for move from player RobotArm...
+[13:13:58] [move] [DEBG] Player RobotArm played move: h8f8, from h8 to f8 with promotion None, capture False, and piece r
+[13:13:58] [Commentator] [INFO] Black plays Rook from h8 to f8
+[13:13:58] [Commentator] [INFO] White (RobotArm) to move
+[13:13:58] [move] [DEBG] Waiting for move from player RobotArm...
+[13:14:08] [move] [DEBG] Player RobotArm played move: f3e1, from f3 to e1 with promotion None, capture False, and piece N
+[13:14:08] [Commentator] [INFO] White plays Knight from f3 to e1
+[13:14:08] [Commentator] [INFO] Black (RobotArm) to move
+[13:14:08] [move] [DEBG] Waiting for move from player RobotArm...
+[13:14:18] [move] [DEBG] Player RobotArm played move: a6a5, from a6 to a5 with promotion None, capture False, and piece p
+[13:14:18] [Commentator] [INFO] Black plays Pawn from a6 to a5
+[13:14:18] [Commentator] [INFO] White (RobotArm) to move
+[13:14:18] [move] [DEBG] Waiting for move from player RobotArm...
+[13:14:27] [move] [DEBG] Player RobotArm played move: a2a4, from a2 to a4 with promotion None, capture False, and piece P
+[13:14:27] [Commentator] [INFO] White plays Pawn from a2 to a4
+[13:14:27] [Commentator] [INFO] Black (RobotArm) to move
+[13:14:27] [move] [DEBG] Waiting for move from player RobotArm...
+[13:14:37] [move] [DEBG] Player RobotArm played move: d6a3, from d6 to a3 with promotion None, capture False, and piece b
+[13:14:37] [Commentator] [INFO] Black plays Bishop from d6 to a3
+[13:14:37] [Commentator] [INFO] White (RobotArm) to move
+[13:14:37] [move] [DEBG] Waiting for move from player RobotArm...
+[13:14:47] [move] [DEBG] Player RobotArm played move: e1d3, from e1 to d3 with promotion None, capture False, and piece N
+[13:14:47] [Commentator] [INFO] White plays Knight from e1 to d3
+[13:14:47] [Commentator] [INFO] Black (RobotArm) to move
+[13:14:47] [move] [DEBG] Waiting for move from player RobotArm...
+[13:15:01] [move] [DEBG] Player RobotArm played move: a3b2, from a3 to b2 with promotion None, capture True, and piece b
+[13:15:01] [Commentator] [INFO] Black plays Bishop from a3 to b2
+[13:15:01] [Commentator] [CAPT]  - captures Bishop
+[13:15:01] [Commentator] [INFO] White (RobotArm) to move
+[13:15:01] [move] [DEBG] Waiting for move from player RobotArm...
+[13:15:16] [move] [DEBG] Player RobotArm played move: d3b2, from d3 to b2 with promotion None, capture True, and piece N
+[13:15:16] [Commentator] [INFO] White plays Knight from d3 to b2
+[13:15:16] [Commentator] [CAPT]  - captures Bishop
+[13:15:16] [Commentator] [INFO] Black (RobotArm) to move
+[13:15:16] [move] [DEBG] Waiting for move from player RobotArm...
+[13:15:26] [move] [DEBG] Player RobotArm played move: e7b4, from e7 to b4 with promotion None, capture False, and piece q
+[13:15:26] [Commentator] [INFO] Black plays Queen from e7 to b4
+[13:15:26] [Commentator] [INFO] White (RobotArm) to move
+[13:15:26] [move] [DEBG] Waiting for move from player RobotArm...
+[13:15:36] [move] [DEBG] Player RobotArm played move: b2d3, from b2 to d3 with promotion None, capture False, and piece N
+[13:15:36] [Commentator] [INFO] White plays Knight from b2 to d3
+[13:15:36] [Commentator] [INFO] Black (RobotArm) to move
+[13:15:36] [move] [DEBG] Waiting for move from player RobotArm...
+[13:15:47] [move] [DEBG] Player RobotArm played move: b4e7, from b4 to e7 with promotion None, capture False, and piece q
+[13:15:47] [Commentator] [INFO] Black plays Queen from b4 to e7
+[13:15:47] [Commentator] [INFO] White (RobotArm) to move
+[13:15:47] [move] [DEBG] Waiting for move from player RobotArm...
+[13:15:56] [move] [DEBG] Player RobotArm played move: d2f3, from d2 to f3 with promotion None, capture False, and piece N
+[13:15:56] [Commentator] [INFO] White plays Knight from d2 to f3
+[13:15:56] [Commentator] [INFO] Black (RobotArm) to move
+[13:15:56] [move] [DEBG] Waiting for move from player RobotArm...
+[13:16:07] [move] [DEBG] Player RobotArm played move: e6f7, from e6 to f7 with promotion None, capture False, and piece b
+[13:16:07] [Commentator] [INFO] Black plays Bishop from e6 to f7
+[13:16:07] [Commentator] [INFO] White (RobotArm) to move
+[13:16:07] [move] [DEBG] Waiting for move from player RobotArm...
+[13:16:16] [move] [DEBG] Player RobotArm played move: e2e1, from e2 to e1 with promotion None, capture False, and piece Q
+[13:16:16] [Commentator] [INFO] White plays Queen from e2 to e1
+[13:16:16] [Commentator] [INFO] Black (RobotArm) to move
+[13:16:16] [move] [DEBG] Waiting for move from player RobotArm...
+[13:16:25] [move] [DEBG] Player RobotArm played move: f7g6, from f7 to g6 with promotion None, capture False, and piece b
+[13:16:25] [Commentator] [INFO] Black plays Bishop from f7 to g6
+[13:16:25] [Commentator] [INFO] White (RobotArm) to move
+[13:16:25] [move] [DEBG] Waiting for move from player RobotArm...
+[13:16:34] [move] [DEBG] Player RobotArm played move: b1b2, from b1 to b2 with promotion None, capture False, and piece K
+[13:16:34] [Commentator] [INFO] White plays King from b1 to b2
+[13:16:34] [Commentator] [INFO] Black (RobotArm) to move
+[13:16:34] [move] [DEBG] Waiting for move from player RobotArm...
+[13:16:44] [move] [DEBG] Player RobotArm played move: c6c5, from c6 to c5 with promotion None, capture False, and piece p
+[13:16:44] [Commentator] [INFO] Black plays Pawn from c6 to c5
+[13:16:44] [Commentator] [INFO] White (RobotArm) to move
+[13:16:44] [move] [DEBG] Waiting for move from player RobotArm...
+[13:16:59] [move] [DEBG] Player RobotArm played move: e1a5, from e1 to a5 with promotion None, capture True, and piece Q
+[13:16:59] [Commentator] [INFO] White plays Queen from e1 to a5
+[13:16:59] [Commentator] [CAPT]  - captures Pawn
+[13:16:59] [Commentator] [INFO] Black (RobotArm) to move
+[13:16:59] [move] [DEBG] Waiting for move from player RobotArm...
+[13:17:15] [move] [DEBG] Player RobotArm played move: g6e4, from g6 to e4 with promotion None, capture True, and piece b
+[13:17:15] [Commentator] [INFO] Black plays Bishop from g6 to e4
+[13:17:15] [Commentator] [CAPT]  - captures Pawn
+[13:17:15] [Commentator] [INFO] White (RobotArm) to move
+[13:17:15] [move] [DEBG] Waiting for move from player RobotArm...
+[13:17:24] [move] [DEBG] Player RobotArm played move: h1e1, from h1 to e1 with promotion None, capture False, and piece R
+[13:17:24] [Commentator] [INFO] White plays Rook from h1 to e1
+[13:17:24] [Commentator] [INFO] Black (RobotArm) to move
+[13:17:24] [move] [DEBG] Waiting for move from player RobotArm...
+[13:17:40] [move] [DEBG] Player RobotArm played move: e4f3, from e4 to f3 with promotion None, capture True, and piece b
+[13:17:40] [Commentator] [INFO] Black plays Bishop from e4 to f3
+[13:17:40] [Commentator] [CAPT]  - captures Knight
+[13:17:40] [Commentator] [INFO] White (RobotArm) to move
+[13:17:40] [move] [DEBG] Waiting for move from player RobotArm...
+[13:17:56] [move] [DEBG] Player RobotArm played move: g2f3, from g2 to f3 with promotion None, capture True, and piece P
+[13:17:56] [Commentator] [INFO] White plays Pawn from g2 to f3
+[13:17:56] [Commentator] [CAPT]  - captures Bishop
+[13:17:56] [Commentator] [INFO] Black (RobotArm) to move
+[13:17:56] [move] [DEBG] Waiting for move from player RobotArm...
+[13:18:14] [move] [DEBG] Player RobotArm played move: f8f3, from f8 to f3 with promotion None, capture True, and piece r
+[13:18:14] [Commentator] [INFO] Black plays Rook from f8 to f3
+[13:18:14] [Commentator] [CAPT]  - captures Pawn
+[13:18:14] [Commentator] [INFO] White (RobotArm) to move
+[13:18:14] [move] [DEBG] Waiting for move from player RobotArm...
+[13:18:29] [move] [DEBG] Player RobotArm played move: d3c5, from d3 to c5 with promotion None, capture True, and piece N
+[13:18:29] [Commentator] [INFO] White plays Knight from d3 to c5
+[13:18:29] [Commentator] [CAPT]  - captures Pawn
+[13:18:29] [Commentator] [INFO] Black (RobotArm) to move
+[13:18:29] [move] [DEBG] Waiting for move from player RobotArm...
+[13:18:45] [move] [DEBG] Player RobotArm played move: d7c5, from d7 to c5 with promotion None, capture True, and piece n
+[13:18:45] [Commentator] [INFO] Black plays Knight from d7 to c5
+[13:18:45] [Commentator] [CAPT]  - captures Knight
+[13:18:45] [Commentator] [INFO] White (RobotArm) to move
+[13:18:45] [move] [DEBG] Waiting for move from player RobotArm...
+[13:19:02] [move] [DEBG] Player RobotArm played move: d1d8, from d1 to d8 with promotion None, capture True, and piece R
+[13:19:02] [Commentator] [INFO] White plays Rook from d1 to d8
+[13:19:02] [Commentator] [CAPT]  - captures Rook
+[13:19:02] [Commentator] [CHCK]  - gives check
+[13:19:02] [Commentator] [INFO] Black (RobotArm) to move
+[13:19:02] [move] [DEBG] Waiting for move from player RobotArm...
+[13:19:20] [move] [DEBG] Player RobotArm played move: e7d8, from e7 to d8 with promotion None, capture True, and piece q
+[13:19:20] [Commentator] [INFO] Black plays Queen from e7 to d8
+[13:19:20] [Commentator] [CAPT]  - captures Rook
+[13:19:20] [Commentator] [INFO] White (RobotArm) to move
+[13:19:20] [move] [DEBG] Waiting for move from player RobotArm...
+[13:19:35] [move] [DEBG] Player RobotArm played move: a5c5, from a5 to c5 with promotion None, capture True, and piece Q
+[13:19:35] [Commentator] [INFO] White plays Queen from a5 to c5
+[13:19:35] [Commentator] [CAPT]  - captures Knight
+[13:19:35] [Commentator] [INFO] Black (RobotArm) to move
+[13:19:35] [move] [DEBG] Waiting for move from player RobotArm...
+[13:19:45] [move] [DEBG] Player RobotArm played move: d8d4, from d8 to d4 with promotion None, capture False, and piece q
+[13:19:45] [Commentator] [INFO] Black plays Queen from d8 to d4
+[13:19:45] [Commentator] [CHCK]  - gives check
+[13:19:45] [Commentator] [INFO] White (RobotArm) to move
+[13:19:45] [move] [DEBG] Waiting for move from player RobotArm...
+[13:20:00] [move] [DEBG] Player RobotArm played move: c5d4, from c5 to d4 with promotion None, capture True, and piece Q
+[13:20:00] [Commentator] [INFO] White plays Queen from c5 to d4
+[13:20:00] [Commentator] [CAPT]  - captures Queen
+[13:20:00] [Commentator] [INFO] Black (RobotArm) to move
+[13:20:00] [move] [DEBG] Waiting for move from player RobotArm...
+[13:20:15] [move] [DEBG] Player RobotArm played move: e5d4, from e5 to d4 with promotion None, capture True, and piece p
+[13:20:15] [Commentator] [INFO] Black plays Pawn from e5 to d4
+[13:20:15] [Commentator] [CAPT]  - captures Queen
+[13:20:15] [Commentator] [INFO] White (RobotArm) to move
+[13:20:15] [move] [DEBG] Waiting for move from player RobotArm...
+[13:20:26] [move] [DEBG] Player RobotArm played move: e1e8, from e1 to e8 with promotion None, capture False, and piece R
+[13:20:26] [Commentator] [INFO] White plays Rook from e1 to e8
+[13:20:26] [Commentator] [CHCK]  - gives check
+[13:20:26] [Commentator] [INFO] Black (RobotArm) to move
+[13:20:26] [move] [DEBG] Waiting for move from player RobotArm...
+[13:20:36] [move] [DEBG] Player RobotArm played move: b8a7, from b8 to a7 with promotion None, capture False, and piece k
+[13:20:36] [Commentator] [INFO] Black plays King from b8 to a7
+[13:20:36] [Commentator] [INFO] White (RobotArm) to move
+[13:20:36] [move] [DEBG] Waiting for move from player RobotArm...
+[13:20:46] [move] [DEBG] Player RobotArm played move: e8e7, from e8 to e7 with promotion None, capture False, and piece R
+[13:20:46] [Commentator] [INFO] White plays Rook from e8 to e7
+[13:20:46] [Commentator] [INFO] Black (RobotArm) to move
+[13:20:46] [move] [DEBG] Waiting for move from player RobotArm...
+[13:20:56] [move] [DEBG] Player RobotArm played move: g7g5, from g7 to g5 with promotion None, capture False, and piece p
+[13:20:56] [Commentator] [INFO] Black plays Pawn from g7 to g5
+[13:20:56] [Commentator] [INFO] White (RobotArm) to move
+[13:20:56] [move] [DEBG] Waiting for move from player RobotArm...
+[13:21:12] [move] [DEBG] Player RobotArm played move: e7c7, from e7 to c7 with promotion None, capture True, and piece R
+[13:21:12] [Commentator] [INFO] White plays Rook from e7 to c7
+[13:21:12] [Commentator] [CAPT]  - captures Pawn
+[13:21:12] [Commentator] [INFO] Black (RobotArm) to move
+[13:21:12] [move] [DEBG] Waiting for move from player RobotArm...
+[13:21:27] [move] [DEBG] Player RobotArm played move: f3h3, from f3 to h3 with promotion None, capture True, and piece r
+[13:21:27] [Commentator] [INFO] Black plays Rook from f3 to h3
+[13:21:27] [Commentator] [CAPT]  - captures Pawn
+[13:21:27] [Commentator] [INFO] White (RobotArm) to move
+[13:21:27] [move] [DEBG] Waiting for move from player RobotArm...
+[13:21:36] [move] [DEBG] Player RobotArm played move: b2c1, from b2 to c1 with promotion None, capture False, and piece K
+[13:21:36] [Commentator] [INFO] White plays King from b2 to c1
+[13:21:36] [Commentator] [INFO] Black (RobotArm) to move
+[13:21:36] [move] [DEBG] Waiting for move from player RobotArm...
+[13:21:45] [move] [DEBG] Player RobotArm played move: h3h2, from h3 to h2 with promotion None, capture False, and piece r
+[13:21:45] [Commentator] [INFO] Black plays Rook from h3 to h2
+[13:21:45] [Commentator] [INFO] White (RobotArm) to move
+[13:21:45] [move] [DEBG] Waiting for move from player RobotArm...
+[13:21:54] [move] [DEBG] Player RobotArm played move: f2f3, from f2 to f3 with promotion None, capture False, and piece P
+[13:21:54] [Commentator] [INFO] White plays Pawn from f2 to f3
+[13:21:54] [Commentator] [INFO] Black (RobotArm) to move
+[13:21:54] [move] [DEBG] Waiting for move from player RobotArm...
+[13:22:05] [move] [DEBG] Player RobotArm played move: a7b6, from a7 to b6 with promotion None, capture False, and piece k
+[13:22:05] [Commentator] [INFO] Black plays King from a7 to b6
+[13:22:05] [Commentator] [INFO] White (RobotArm) to move
+[13:22:05] [move] [DEBG] Waiting for move from player RobotArm...
+[13:22:14] [move] [DEBG] Player RobotArm played move: c7d7, from c7 to d7 with promotion None, capture False, and piece R
+[13:22:14] [Commentator] [INFO] White plays Rook from c7 to d7
+[13:22:14] [Commentator] [INFO] Black (RobotArm) to move
+[13:22:14] [move] [DEBG] Waiting for move from player RobotArm...
+[13:22:24] [move] [DEBG] Player RobotArm played move: b6c6, from b6 to c6 with promotion None, capture False, and piece k
+[13:22:24] [Commentator] [INFO] Black plays King from b6 to c6
+[13:22:24] [Commentator] [INFO] White (RobotArm) to move
+[13:22:24] [move] [DEBG] Waiting for move from player RobotArm...
+[13:22:34] [move] [DEBG] Player RobotArm played move: d7g7, from d7 to g7 with promotion None, capture False, and piece R
+[13:22:34] [Commentator] [INFO] White plays Rook from d7 to g7
+[13:22:34] [Commentator] [INFO] Black (RobotArm) to move
+[13:22:34] [move] [DEBG] Waiting for move from player RobotArm...
+[13:22:43] [move] [DEBG] Player RobotArm played move: h2h3, from h2 to h3 with promotion None, capture False, and piece r
+[13:22:43] [Commentator] [INFO] Black plays Rook from h2 to h3
+[13:22:43] [Commentator] [INFO] White (RobotArm) to move
+[13:22:43] [move] [DEBG] Waiting for move from player RobotArm...
+[13:22:53] [move] [DEBG] Player RobotArm played move: g7g6, from g7 to g6 with promotion None, capture False, and piece R
+[13:22:53] [Commentator] [INFO] White plays Rook from g7 to g6
+[13:22:53] [Commentator] [CHCK]  - gives check
+[13:22:53] [Commentator] [INFO] Black (RobotArm) to move
+[13:22:53] [move] [DEBG] Waiting for move from player RobotArm...
+[13:23:03] [move] [DEBG] Player RobotArm played move: c6d5, from c6 to d5 with promotion None, capture False, and piece k
+[13:23:03] [Commentator] [INFO] Black plays King from c6 to d5
+[13:23:03] [Commentator] [INFO] White (RobotArm) to move
+[13:23:03] [move] [DEBG] Waiting for move from player RobotArm...
+[13:23:14] [move] [DEBG] Player RobotArm played move: g6b6, from g6 to b6 with promotion None, capture False, and piece R
+[13:23:14] [Commentator] [INFO] White plays Rook from g6 to b6
+[13:23:14] [Commentator] [INFO] Black (RobotArm) to move
+[13:23:14] [move] [DEBG] Waiting for move from player RobotArm...
+[13:23:30] [move] [DEBG] Player RobotArm played move: h3f3, from h3 to f3 with promotion None, capture True, and piece r
+[13:23:30] [Commentator] [INFO] Black plays Rook from h3 to f3
+[13:23:30] [Commentator] [CAPT]  - captures Pawn
+[13:23:30] [Commentator] [INFO] White (RobotArm) to move
+[13:23:30] [move] [DEBG] Waiting for move from player RobotArm...
+[13:23:44] [move] [DEBG] Player RobotArm played move: b6b7, from b6 to b7 with promotion None, capture True, and piece R
+[13:23:44] [Commentator] [INFO] White plays Rook from b6 to b7
+[13:23:44] [Commentator] [CAPT]  - captures Pawn
+[13:23:44] [Commentator] [INFO] Black (RobotArm) to move
+[13:23:44] [move] [DEBG] Waiting for move from player RobotArm...
+[13:23:54] [move] [DEBG] Player RobotArm played move: g5g4, from g5 to g4 with promotion None, capture False, and piece p
+[13:23:54] [Commentator] [INFO] Black plays Pawn from g5 to g4
+[13:23:54] [Commentator] [INFO] White (RobotArm) to move
+[13:23:54] [move] [DEBG] Waiting for move from player RobotArm...
+[13:24:03] [move] [DEBG] Player RobotArm played move: c1d2, from c1 to d2 with promotion None, capture False, and piece K
+[13:24:03] [Commentator] [INFO] White plays King from c1 to d2
+[13:24:03] [Commentator] [INFO] Black (RobotArm) to move
+[13:24:03] [move] [DEBG] Waiting for move from player RobotArm...
+[13:24:12] [move] [DEBG] Player RobotArm played move: f3f1, from f3 to f1 with promotion None, capture False, and piece r
+[13:24:12] [Commentator] [INFO] Black plays Rook from f3 to f1
+[13:24:12] [Commentator] [INFO] White (RobotArm) to move
+[13:24:12] [move] [DEBG] Waiting for move from player RobotArm...
+[13:24:21] [move] [DEBG] Player RobotArm played move: d2e2, from d2 to e2 with promotion None, capture False, and piece K
+[13:24:21] [Commentator] [INFO] White plays King from d2 to e2
+[13:24:21] [Commentator] [INFO] Black (RobotArm) to move
+[13:24:21] [move] [DEBG] Waiting for move from player RobotArm...
+[13:24:30] [move] [DEBG] Player RobotArm played move: f1c1, from f1 to c1 with promotion None, capture False, and piece r
+[13:24:30] [Commentator] [INFO] Black plays Rook from f1 to c1
+[13:24:30] [Commentator] [INFO] White (RobotArm) to move
+[13:24:30] [move] [DEBG] Waiting for move from player RobotArm...
+[13:24:39] [move] [DEBG] Player RobotArm played move: e2d3, from e2 to d3 with promotion None, capture False, and piece K
+[13:24:39] [Commentator] [INFO] White plays King from e2 to d3
+[13:24:39] [Commentator] [INFO] Black (RobotArm) to move
+[13:24:39] [move] [DEBG] Waiting for move from player RobotArm...
+[13:24:48] [move] [DEBG] Player RobotArm played move: d5e5, from d5 to e5 with promotion None, capture False, and piece k
+[13:24:48] [Commentator] [INFO] Black plays King from d5 to e5
+[13:24:48] [Commentator] [INFO] White (RobotArm) to move
+[13:24:48] [move] [DEBG] Waiting for move from player RobotArm...
+[13:24:57] [move] [DEBG] Player RobotArm played move: b3b4, from b3 to b4 with promotion None, capture False, and piece P
+[13:24:57] [Commentator] [INFO] White plays Pawn from b3 to b4
+[13:24:57] [Commentator] [INFO] Black (RobotArm) to move
+[13:24:57] [move] [DEBG] Waiting for move from player RobotArm...
+[13:25:06] [move] [DEBG] Player RobotArm played move: c1d1, from c1 to d1 with promotion None, capture False, and piece r
+[13:25:06] [Commentator] [INFO] Black plays Rook from c1 to d1
+[13:25:06] [Commentator] [CHCK]  - gives check
+[13:25:06] [Commentator] [INFO] White (RobotArm) to move
+[13:25:06] [move] [DEBG] Waiting for move from player RobotArm...
+[13:25:16] [move] [DEBG] Player RobotArm played move: d3e2, from d3 to e2 with promotion None, capture False, and piece K
+[13:25:16] [Commentator] [INFO] White plays King from d3 to e2
+[13:25:16] [Commentator] [INFO] Black (RobotArm) to move
+[13:25:16] [move] [DEBG] Waiting for move from player RobotArm...
+[13:25:25] [move] [DEBG] Player RobotArm played move: d1c1, from d1 to c1 with promotion None, capture False, and piece r
+[13:25:25] [Commentator] [INFO] Black plays Rook from d1 to c1
+[13:25:25] [Commentator] [INFO] White (RobotArm) to move
+[13:25:25] [move] [DEBG] Waiting for move from player RobotArm...
+[13:25:34] [move] [DEBG] Player RobotArm played move: e2d3, from e2 to d3 with promotion None, capture False, and piece K
+[13:25:34] [Commentator] [INFO] White plays King from e2 to d3
+[13:25:34] [Commentator] [INFO] Black (RobotArm) to move
+[13:25:34] [move] [DEBG] Waiting for move from player RobotArm...
+[13:25:43] [move] [DEBG] Player RobotArm played move: c1a1, from c1 to a1 with promotion None, capture False, and piece r
+[13:25:43] [Commentator] [INFO] Black plays Rook from c1 to a1
+[13:25:43] [Commentator] [INFO] White (RobotArm) to move
+[13:25:43] [move] [DEBG] Waiting for move from player RobotArm...
+[13:25:52] [move] [DEBG] Player RobotArm played move: b4b5, from b4 to b5 with promotion None, capture False, and piece P
+[13:25:52] [Commentator] [INFO] White plays Pawn from b4 to b5
+[13:25:52] [Commentator] [INFO] Black (RobotArm) to move
+[13:25:52] [move] [DEBG] Waiting for move from player RobotArm...
+[13:26:02] [move] [DEBG] Player RobotArm played move: g4g3, from g4 to g3 with promotion None, capture False, and piece p
+[13:26:02] [Commentator] [INFO] Black plays Pawn from g4 to g3
+[13:26:02] [Commentator] [INFO] White (RobotArm) to move
+[13:26:02] [move] [DEBG] Waiting for move from player RobotArm...
+[13:26:12] [move] [DEBG] Player RobotArm played move: b7g7, from b7 to g7 with promotion None, capture False, and piece R
+[13:26:12] [Commentator] [INFO] White plays Rook from b7 to g7
+[13:26:12] [Commentator] [INFO] Black (RobotArm) to move
+[13:26:12] [move] [DEBG] Waiting for move from player RobotArm...
+[13:26:22] [move] [DEBG] Player RobotArm played move: e5f6, from e5 to f6 with promotion None, capture False, and piece k
+[13:26:22] [Commentator] [INFO] Black plays King from e5 to f6
+[13:26:22] [Commentator] [INFO] White (RobotArm) to move
+[13:26:22] [move] [DEBG] Waiting for move from player RobotArm...
+[13:26:31] [move] [DEBG] Player RobotArm played move: g7g8, from g7 to g8 with promotion None, capture False, and piece R
+[13:26:31] [Commentator] [INFO] White plays Rook from g7 to g8
+[13:26:31] [Commentator] [INFO] Black (RobotArm) to move
+[13:26:31] [move] [DEBG] Waiting for move from player RobotArm...
+[13:26:42] [move] [DEBG] Player RobotArm played move: f6f7, from f6 to f7 with promotion None, capture False, and piece k
+[13:26:42] [Commentator] [INFO] Black plays King from f6 to f7
+[13:26:42] [Commentator] [INFO] White (RobotArm) to move
+[13:26:42] [move] [DEBG] Waiting for move from player RobotArm...
+[13:26:51] [move] [DEBG] Player RobotArm played move: g8g4, from g8 to g4 with promotion None, capture False, and piece R
+[13:26:51] [Commentator] [INFO] White plays Rook from g8 to g4
+[13:26:51] [Commentator] [INFO] Black (RobotArm) to move
+[13:26:51] [move] [DEBG] Waiting for move from player RobotArm...
+[13:27:01] [move] [DEBG] Player RobotArm played move: h6h5, from h6 to h5 with promotion None, capture False, and piece p
+[13:27:01] [Commentator] [INFO] Black plays Pawn from h6 to h5
+[13:27:01] [Commentator] [INFO] White (RobotArm) to move
+[13:27:01] [move] [DEBG] Waiting for move from player RobotArm...
+[13:27:11] [move] [DEBG] Player RobotArm played move: g4g5, from g4 to g5 with promotion None, capture False, and piece R
+[13:27:11] [Commentator] [INFO] White plays Rook from g4 to g5
+[13:27:11] [Commentator] [INFO] Black (RobotArm) to move
+[13:27:11] [move] [DEBG] Waiting for move from player RobotArm...
+[13:27:20] [move] [DEBG] Player RobotArm played move: f7f6, from f7 to f6 with promotion None, capture False, and piece k
+[13:27:20] [Commentator] [INFO] Black plays King from f7 to f6
+[13:27:20] [Commentator] [INFO] White (RobotArm) to move
+[13:27:20] [move] [DEBG] Waiting for move from player RobotArm...
+[13:27:31] [move] [DEBG] Player RobotArm played move: g5g8, from g5 to g8 with promotion None, capture False, and piece R
+[13:27:31] [Commentator] [INFO] White plays Rook from g5 to g8
+[13:27:31] [Commentator] [INFO] Black (RobotArm) to move
+[13:27:31] [move] [DEBG] Waiting for move from player RobotArm...
+[13:27:40] [move] [DEBG] Player RobotArm played move: h5h4, from h5 to h4 with promotion None, capture False, and piece p
+[13:27:40] [Commentator] [INFO] Black plays Pawn from h5 to h4
+[13:27:40] [Commentator] [INFO] White (RobotArm) to move
+[13:27:40] [move] [DEBG] Waiting for move from player RobotArm...
+[13:27:50] [move] [DEBG] Player RobotArm played move: d3e4, from d3 to e4 with promotion None, capture False, and piece K
+[13:27:50] [Commentator] [INFO] White plays King from d3 to e4
+[13:27:50] [Commentator] [INFO] Black (RobotArm) to move
+[13:27:50] [move] [DEBG] Waiting for move from player RobotArm...
+[13:28:04] [move] [DEBG] Player RobotArm played move: a1a4, from a1 to a4 with promotion None, capture True, and piece r
+[13:28:04] [Commentator] [INFO] Black plays Rook from a1 to a4
+[13:28:04] [Commentator] [CAPT]  - captures Pawn
+[13:28:04] [Commentator] [INFO] White (RobotArm) to move
+[13:28:04] [move] [DEBG] Waiting for move from player RobotArm...
+[13:28:14] [move] [DEBG] Player RobotArm played move: b5b6, from b5 to b6 with promotion None, capture False, and piece P
+[13:28:14] [Commentator] [INFO] White plays Pawn from b5 to b6
+[13:28:14] [Commentator] [INFO] Black (RobotArm) to move
+[13:28:14] [move] [DEBG] Waiting for move from player RobotArm...
+[13:28:24] [move] [DEBG] Player RobotArm played move: a4b4, from a4 to b4 with promotion None, capture False, and piece r
+[13:28:24] [Commentator] [INFO] Black plays Rook from a4 to b4
+[13:28:24] [Commentator] [INFO] White (RobotArm) to move
+[13:28:24] [move] [DEBG] Waiting for move from player RobotArm...
+[13:28:33] [move] [DEBG] Player RobotArm played move: e4f3, from e4 to f3 with promotion None, capture False, and piece K
+[13:28:33] [Commentator] [INFO] White plays King from e4 to f3
+[13:28:33] [Commentator] [INFO] Black (RobotArm) to move
+[13:28:33] [move] [DEBG] Waiting for move from player RobotArm...
+[13:28:48] [move] [DEBG] Player RobotArm played move: b4b6, from b4 to b6 with promotion None, capture True, and piece r
+[13:28:48] [Commentator] [INFO] Black plays Rook from b4 to b6
+[13:28:48] [Commentator] [CAPT]  - captures Pawn
+[13:28:48] [Commentator] [INFO] White (RobotArm) to move
+[13:28:48] [move] [DEBG] Waiting for move from player RobotArm...
+[13:28:58] [move] [DEBG] Player RobotArm played move: g8g4, from g8 to g4 with promotion None, capture False, and piece R
+[13:28:58] [Commentator] [INFO] White plays Rook from g8 to g4
+[13:28:58] [Commentator] [INFO] Black (RobotArm) to move
+[13:28:58] [move] [DEBG] Waiting for move from player RobotArm...
+[13:29:08] [move] [DEBG] Player RobotArm played move: b6c6, from b6 to c6 with promotion None, capture False, and piece r
+[13:29:08] [Commentator] [INFO] Black plays Rook from b6 to c6
+[13:29:08] [Commentator] [INFO] White (RobotArm) to move
+[13:29:08] [move] [DEBG] Waiting for move from player RobotArm...
+[13:29:23] [move] [DEBG] Player RobotArm played move: g4h4, from g4 to h4 with promotion None, capture True, and piece R
+[13:29:23] [Commentator] [INFO] White plays Rook from g4 to h4
+[13:29:23] [Commentator] [CAPT]  - captures Pawn
+[13:29:23] [Commentator] [INFO] Black (RobotArm) to move
+[13:29:23] [move] [DEBG] Waiting for move from player RobotArm...
+[13:29:33] [move] [DEBG] Player RobotArm played move: c6c3, from c6 to c3 with promotion None, capture False, and piece r
+[13:29:33] [Commentator] [INFO] Black plays Rook from c6 to c3
+[13:29:33] [Commentator] [CHCK]  - gives check
+[13:29:33] [Commentator] [INFO] White (RobotArm) to move
+[13:29:33] [move] [DEBG] Waiting for move from player RobotArm...
+[13:29:43] [move] [DEBG] Player RobotArm played move: f3g2, from f3 to g2 with promotion None, capture False, and piece K
+[13:29:43] [Commentator] [INFO] White plays King from f3 to g2
+[13:29:43] [Commentator] [INFO] Black (RobotArm) to move
+[13:29:43] [move] [DEBG] Waiting for move from player RobotArm...
+[13:29:54] [move] [DEBG] Player RobotArm played move: f6e5, from f6 to e5 with promotion None, capture False, and piece k
+[13:29:54] [Commentator] [INFO] Black plays King from f6 to e5
+[13:29:54] [Commentator] [INFO] White (RobotArm) to move
+[13:29:54] [move] [DEBG] Waiting for move from player RobotArm...
+[13:30:03] [move] [DEBG] Player RobotArm played move: g2h3, from g2 to h3 with promotion None, capture False, and piece K
+[13:30:03] [Commentator] [INFO] White plays King from g2 to h3
+[13:30:03] [Commentator] [INFO] Black (RobotArm) to move
+[13:30:03] [move] [DEBG] Waiting for move from player RobotArm...
+[13:30:17] [move] [DEBG] Player RobotArm played move: c3c2, from c3 to c2 with promotion None, capture True, and piece r
+[13:30:17] [Commentator] [INFO] Black plays Rook from c3 to c2
+[13:30:17] [Commentator] [CAPT]  - captures Pawn
+[13:30:17] [Commentator] [INFO] White (RobotArm) to move
+[13:30:17] [move] [DEBG] Waiting for move from player RobotArm...
+[13:30:33] [move] [DEBG] Player RobotArm played move: h3g3, from h3 to g3 with promotion None, capture True, and piece K
+[13:30:33] [Commentator] [INFO] White plays King from h3 to g3
+[13:30:33] [Commentator] [CAPT]  - captures Pawn
+[13:30:33] [Commentator] [INFO] Black (RobotArm) to move
+[13:30:33] [move] [DEBG] Waiting for move from player RobotArm...
+[13:30:42] [move] [DEBG] Player RobotArm played move: d4d3, from d4 to d3 with promotion None, capture False, and piece p
+[13:30:42] [Commentator] [INFO] Black plays Pawn from d4 to d3
+[13:30:42] [Commentator] [INFO] White (RobotArm) to move
+[13:30:42] [move] [DEBG] Waiting for move from player RobotArm...
+[13:30:51] [move] [DEBG] Player RobotArm played move: g3f3, from g3 to f3 with promotion None, capture False, and piece K
+[13:30:51] [Commentator] [INFO] White plays King from g3 to f3
+[13:30:51] [Commentator] [INFO] Black (RobotArm) to move
+[13:30:51] [move] [DEBG] Waiting for move from player RobotArm...
+[13:31:00] [move] [DEBG] Player RobotArm played move: c2e2, from c2 to e2 with promotion None, capture False, and piece r
+[13:31:00] [Commentator] [INFO] Black plays Rook from c2 to e2
+[13:31:00] [Commentator] [INFO] White (RobotArm) to move
+[13:31:00] [move] [DEBG] Waiting for move from player RobotArm...
+[13:31:11] [move] [DEBG] Player RobotArm played move: h4h7, from h4 to h7 with promotion None, capture False, and piece R
+[13:31:11] [Commentator] [INFO] White plays Rook from h4 to h7
+[13:31:11] [Commentator] [INFO] Black (RobotArm) to move
+[13:31:11] [move] [DEBG] Waiting for move from player RobotArm...
+[13:31:20] [move] [DEBG] Player RobotArm played move: e5d4, from e5 to d4 with promotion None, capture False, and piece k
+[13:31:20] [Commentator] [INFO] Black plays King from e5 to d4
+[13:31:20] [Commentator] [INFO] White (RobotArm) to move
+[13:31:20] [move] [DEBG] Waiting for move from player RobotArm...
+[13:31:31] [move] [DEBG] Player RobotArm played move: h7d7, from h7 to d7 with promotion None, capture False, and piece R
+[13:31:31] [Commentator] [INFO] White plays Rook from h7 to d7
+[13:31:31] [Commentator] [CHCK]  - gives check
+[13:31:31] [Commentator] [INFO] Black (RobotArm) to move
+[13:31:31] [move] [DEBG] Waiting for move from player RobotArm...
+[13:31:40] [move] [DEBG] Player RobotArm played move: d4c3, from d4 to c3 with promotion None, capture False, and piece k
+[13:31:40] [Commentator] [INFO] Black plays King from d4 to c3
+[13:31:40] [Commentator] [INFO] White (RobotArm) to move
+[13:31:40] [move] [DEBG] Waiting for move from player RobotArm...
+[13:31:50] [move] [DEBG] Player RobotArm played move: d7c7, from d7 to c7 with promotion None, capture False, and piece R
+[13:31:50] [Commentator] [INFO] White plays Rook from d7 to c7
+[13:31:50] [Commentator] [CHCK]  - gives check
+[13:31:50] [Commentator] [INFO] Black (RobotArm) to move
+[13:31:50] [move] [DEBG] Waiting for move from player RobotArm...
+[13:31:59] [move] [DEBG] Player RobotArm played move: c3b3, from c3 to b3 with promotion None, capture False, and piece k
+[13:31:59] [Commentator] [INFO] Black plays King from c3 to b3
+[13:31:59] [Commentator] [INFO] White (RobotArm) to move
+[13:31:59] [move] [DEBG] Waiting for move from player RobotArm...
+[13:32:10] [move] [DEBG] Player RobotArm played move: c7d7, from c7 to d7 with promotion None, capture False, and piece R
+[13:32:10] [Commentator] [INFO] White plays Rook from c7 to d7
+[13:32:10] [Commentator] [INFO] Black (RobotArm) to move
+[13:32:10] [move] [DEBG] Waiting for move from player RobotArm...
+[13:32:19] [move] [DEBG] Player RobotArm played move: b3c2, from b3 to c2 with promotion None, capture False, and piece k
+[13:32:19] [Commentator] [INFO] Black plays King from b3 to c2
+[13:32:19] [Commentator] [INFO] White (RobotArm) to move
+[13:32:19] [move] [DEBG] Waiting for move from player RobotArm...
+[13:32:30] [move] [DEBG] Player RobotArm played move: d7d8, from d7 to d8 with promotion None, capture False, and piece R
+[13:32:30] [Commentator] [INFO] White plays Rook from d7 to d8
+[13:32:30] [Commentator] [INFO] Black (RobotArm) to move
+[13:32:30] [move] [DEBG] Waiting for move from player RobotArm...
+[13:32:39] [move] [DEBG] Player RobotArm played move: e2e1, from e2 to e1 with promotion None, capture False, and piece r
+[13:32:39] [Commentator] [INFO] Black plays Rook from e2 to e1
+[13:32:39] [Commentator] [INFO] White (RobotArm) to move
+[13:32:39] [move] [DEBG] Waiting for move from player RobotArm...
+[13:32:50] [move] [DEBG] Player RobotArm played move: d8c8, from d8 to c8 with promotion None, capture False, and piece R
+[13:32:50] [Commentator] [INFO] White plays Rook from d8 to c8
+[13:32:50] [Commentator] [CHCK]  - gives check
+[13:32:50] [Commentator] [INFO] Black (RobotArm) to move
+[13:32:50] [move] [DEBG] Waiting for move from player RobotArm...
+[13:32:59] [move] [DEBG] Player RobotArm played move: c2d1, from c2 to d1 with promotion None, capture False, and piece k
+[13:32:59] [Commentator] [INFO] Black plays King from c2 to d1
+[13:32:59] [Commentator] [INFO] White (RobotArm) to move
+[13:32:59] [move] [DEBG] Waiting for move from player RobotArm...
+[13:33:09] [move] [DEBG] Player RobotArm played move: c8c3, from c8 to c3 with promotion None, capture False, and piece R
+[13:33:09] [Commentator] [INFO] White plays Rook from c8 to c3
+[13:33:09] [Commentator] [INFO] Black (RobotArm) to move
+[13:33:09] [move] [DEBG] Waiting for move from player RobotArm...
+[13:33:18] [move] [DEBG] Player RobotArm played move: d3d2, from d3 to d2 with promotion None, capture False, and piece p
+[13:33:18] [Commentator] [INFO] Black plays Pawn from d3 to d2
+[13:33:18] [Commentator] [INFO] White (RobotArm) to move
+[13:33:18] [move] [DEBG] Waiting for move from player RobotArm...
+[13:33:28] [move] [DEBG] Player RobotArm played move: c3c6, from c3 to c6 with promotion None, capture False, and piece R
+[13:33:28] [Commentator] [INFO] White plays Rook from c3 to c6
+[13:33:28] [Commentator] [INFO] Black (RobotArm) to move
+[13:33:28] [move] [DEBG] Waiting for move from player RobotArm...
+[13:33:37] [move] [DEBG] Player RobotArm played move: e1e2, from e1 to e2 with promotion None, capture False, and piece r
+[13:33:37] [Commentator] [INFO] Black plays Rook from e1 to e2
+[13:33:37] [Commentator] [INFO] White (RobotArm) to move
+[13:33:37] [move] [DEBG] Waiting for move from player RobotArm...
+[13:33:47] [move] [DEBG] Player RobotArm played move: c6g6, from c6 to g6 with promotion None, capture False, and piece R
+[13:33:47] [Commentator] [INFO] White plays Rook from c6 to g6
+[13:33:47] [Commentator] [INFO] Black (RobotArm) to move
+[13:33:47] [move] [DEBG] Waiting for move from player RobotArm...
+[13:33:58] [move] [DEBG] Player RobotArm played move: e2e7, from e2 to e7 with promotion None, capture False, and piece r
+[13:33:58] [Commentator] [INFO] Black plays Rook from e2 to e7
+[13:33:58] [Commentator] [INFO] White (RobotArm) to move
+[13:33:58] [move] [DEBG] Waiting for move from player RobotArm...
+[13:34:08] [move] [DEBG] Player RobotArm played move: g6g5, from g6 to g5 with promotion None, capture False, and piece R
+[13:34:08] [Commentator] [INFO] White plays Rook from g6 to g5
+[13:34:08] [Commentator] [INFO] Black (RobotArm) to move
+[13:34:08] [move] [DEBG] Waiting for move from player RobotArm...
+[13:34:18] [move] [DEBG] Player RobotArm played move: e7c7, from e7 to c7 with promotion None, capture False, and piece r
+[13:34:18] [Commentator] [INFO] Black plays Rook from e7 to c7
+[13:34:18] [Commentator] [INFO] White (RobotArm) to move
+[13:34:18] [move] [DEBG] Waiting for move from player RobotArm...
+[13:34:28] [move] [DEBG] Player RobotArm played move: g5g1, from g5 to g1 with promotion None, capture False, and piece R
+[13:34:28] [Commentator] [INFO] White plays Rook from g5 to g1
+[13:34:28] [Commentator] [CHCK]  - gives check
+[13:34:28] [Commentator] [INFO] Black (RobotArm) to move
+[13:34:28] [move] [DEBG] Waiting for move from player RobotArm...
+[13:34:37] [move] [DEBG] Player RobotArm played move: d1c2, from d1 to c2 with promotion None, capture False, and piece k
+[13:34:37] [Commentator] [INFO] Black plays King from d1 to c2
+[13:34:37] [Commentator] [INFO] White (RobotArm) to move
+[13:34:37] [move] [DEBG] Waiting for move from player RobotArm...
+[13:34:46] [move] [DEBG] Player RobotArm played move: g1a1, from g1 to a1 with promotion None, capture False, and piece R
+[13:34:46] [Commentator] [INFO] White plays Rook from g1 to a1
+[13:34:46] [Commentator] [INFO] Black (RobotArm) to move
+[13:34:46] [move] [DEBG] Waiting for move from player RobotArm...
+[13:34:55] [move] [DEBG] Player RobotArm played move: d2d1q, from d2 to d1 with promotion 5, capture False, and piece p
+[13:34:55] [Commentator] [INFO] Black plays Pawn from d2 to d1
+[13:34:55] [Commentator] [IMPT]  - promotes to a Queen
+[13:34:55] [Commentator] [CHCK]  - gives check
+[13:34:55] [Commentator] [INFO] White (RobotArm) to move
+[13:34:55] [move] [DEBG] Waiting for move from player RobotArm...
+[13:35:09] [move] [DEBG] Player RobotArm played move: a1d1, from a1 to d1 with promotion None, capture True, and piece R
+[13:35:09] [Commentator] [INFO] White plays Rook from a1 to d1
+[13:35:09] [Commentator] [CAPT]  - captures Queen
+[13:35:09] [Commentator] [INFO] Black (RobotArm) to move
+[13:35:09] [move] [DEBG] Waiting for move from player RobotArm...
+[13:35:23] [move] [DEBG] Player RobotArm played move: c2d1, from c2 to d1 with promotion None, capture True, and piece k
+[13:35:23] [Commentator] [INFO] Black plays King from c2 to d1
+[13:35:23] [Commentator] [CAPT]  - captures Rook
+[13:35:23] [Commentator] [INFO] White (RobotArm) to move
+[13:35:23] [move] [DEBG] Waiting for move from player RobotArm...
+[13:35:33] [move] [DEBG] Player RobotArm played move: f3e4, from f3 to e4 with promotion None, capture False, and piece K
+[13:35:33] [Commentator] [INFO] White plays King from f3 to e4
+[13:35:33] [Commentator] [INFO] Black (RobotArm) to move
+[13:35:33] [move] [DEBG] Waiting for move from player RobotArm...
+[13:35:43] [move] [DEBG] Player RobotArm played move: c7d7, from c7 to d7 with promotion None, capture False, and piece r
+[13:35:43] [Commentator] [INFO] Black plays Rook from c7 to d7
+[13:35:43] [Commentator] [INFO] White (RobotArm) to move
+[13:35:43] [move] [DEBG] Waiting for move from player RobotArm...
+[13:35:52] [move] [DEBG] Player RobotArm played move: e4e3, from e4 to e3 with promotion None, capture False, and piece K
+[13:35:52] [Commentator] [INFO] White plays King from e4 to e3
+[13:35:52] [Commentator] [INFO] Black (RobotArm) to move
+[13:35:52] [move] [DEBG] Waiting for move from player RobotArm...
+[13:36:03] [move] [DEBG] Player RobotArm played move: d7d8, from d7 to d8 with promotion None, capture False, and piece r
+[13:36:03] [Commentator] [INFO] Black plays Rook from d7 to d8
+[13:36:03] [Commentator] [INFO] White (RobotArm) to move
+[13:36:03] [move] [DEBG] Waiting for move from player RobotArm...
+[13:36:12] [move] [DEBG] Player RobotArm played move: e3f4, from e3 to f4 with promotion None, capture False, and piece K
+[13:36:12] [Commentator] [INFO] White plays King from e3 to f4
+[13:36:12] [Commentator] [INFO] Black (RobotArm) to move
+[13:36:12] [move] [DEBG] Waiting for move from player RobotArm...
+[13:36:23] [move] [DEBG] Player RobotArm played move: d8e8, from d8 to e8 with promotion None, capture False, and piece r
+[13:36:23] [Commentator] [INFO] Black plays Rook from d8 to e8
+[13:36:23] [Commentator] [INFO] White (RobotArm) to move
+[13:36:23] [move] [DEBG] Waiting for move from player RobotArm...
+[13:36:33] [move] [DEBG] Player RobotArm played move: f4g5, from f4 to g5 with promotion None, capture False, and piece K
+[13:36:33] [Commentator] [INFO] White plays King from f4 to g5
+[13:36:33] [Commentator] [INFO] Black (RobotArm) to move
+[13:36:33] [move] [DEBG] Waiting for move from player RobotArm...
+[13:36:42] [move] [DEBG] Player RobotArm played move: d1e2, from d1 to e2 with promotion None, capture False, and piece k
+[13:36:42] [Commentator] [INFO] Black plays King from d1 to e2
+[13:36:42] [Commentator] [INFO] White (RobotArm) to move
+[13:36:42] [move] [DEBG] Waiting for move from player RobotArm...
+[13:36:52] [move] [DEBG] Player RobotArm played move: g5f4, from g5 to f4 with promotion None, capture False, and piece K
+[13:36:52] [Commentator] [INFO] White plays King from g5 to f4
+[13:36:52] [Commentator] [INFO] Black (RobotArm) to move
+[13:36:52] [move] [DEBG] Waiting for move from player RobotArm...
+[13:37:01] [move] [DEBG] Player RobotArm played move: e2d3, from e2 to d3 with promotion None, capture False, and piece k
+[13:37:01] [Commentator] [INFO] Black plays King from e2 to d3
+[13:37:01] [Commentator] [INFO] White (RobotArm) to move
+[13:37:01] [move] [DEBG] Waiting for move from player RobotArm...
+[13:37:11] [move] [DEBG] Player RobotArm played move: f4g5, from f4 to g5 with promotion None, capture False, and piece K
+[13:37:11] [Commentator] [INFO] White plays King from f4 to g5
+[13:37:11] [Commentator] [INFO] Black (RobotArm) to move
+[13:37:11] [move] [DEBG] Waiting for move from player RobotArm...
+[13:37:21] [move] [DEBG] Player RobotArm played move: e8e5, from e8 to e5 with promotion None, capture False, and piece r
+[13:37:21] [Commentator] [INFO] Black plays Rook from e8 to e5
+[13:37:21] [Commentator] [CHCK]  - gives check
+[13:37:21] [Commentator] [INFO] White (RobotArm) to move
+[13:37:21] [move] [DEBG] Waiting for move from player RobotArm...
+[13:37:31] [move] [DEBG] Player RobotArm played move: g5h6, from g5 to h6 with promotion None, capture False, and piece K
+[13:37:31] [Commentator] [INFO] White plays King from g5 to h6
+[13:37:31] [Commentator] [INFO] Black (RobotArm) to move
+[13:37:31] [move] [DEBG] Waiting for move from player RobotArm...
+[13:37:41] [move] [DEBG] Player RobotArm played move: d3e4, from d3 to e4 with promotion None, capture False, and piece k
+[13:37:41] [Commentator] [INFO] Black plays King from d3 to e4
+[13:37:41] [Commentator] [INFO] White (RobotArm) to move
+[13:37:41] [move] [DEBG] Waiting for move from player RobotArm...
+[13:37:51] [move] [DEBG] Player RobotArm played move: h6g6, from h6 to g6 with promotion None, capture False, and piece K
+[13:37:51] [Commentator] [INFO] White plays King from h6 to g6
+[13:37:51] [Commentator] [INFO] Black (RobotArm) to move
+[13:37:51] [move] [DEBG] Waiting for move from player RobotArm...
+[13:38:00] [move] [DEBG] Player RobotArm played move: e5f5, from e5 to f5 with promotion None, capture False, and piece r
+[13:38:00] [Commentator] [INFO] Black plays Rook from e5 to f5
+[13:38:00] [Commentator] [INFO] White (RobotArm) to move
+[13:38:00] [move] [DEBG] Waiting for move from player RobotArm...
+[13:38:10] [move] [DEBG] Player RobotArm played move: g6h6, from g6 to h6 with promotion None, capture False, and piece K
+[13:38:10] [Commentator] [INFO] White plays King from g6 to h6
+[13:38:10] [Commentator] [INFO] Black (RobotArm) to move
+[13:38:10] [move] [DEBG] Waiting for move from player RobotArm...
+[13:38:19] [move] [DEBG] Player RobotArm played move: e4f4, from e4 to f4 with promotion None, capture False, and piece k
+[13:38:19] [Commentator] [INFO] Black plays King from e4 to f4
+[13:38:19] [Commentator] [INFO] White (RobotArm) to move
+[13:38:19] [move] [DEBG] Waiting for move from player RobotArm...
+[13:38:29] [move] [DEBG] Player RobotArm played move: h6g6, from h6 to g6 with promotion None, capture False, and piece K
+[13:38:29] [Commentator] [INFO] White plays King from h6 to g6
+[13:38:29] [Commentator] [INFO] Black (RobotArm) to move
+[13:38:29] [move] [DEBG] Waiting for move from player RobotArm...
+[13:38:39] [move] [DEBG] Player RobotArm played move: f4g4, from f4 to g4 with promotion None, capture False, and piece k
+[13:38:39] [Commentator] [INFO] Black plays King from f4 to g4
+[13:38:39] [Commentator] [INFO] White (RobotArm) to move
+[13:38:39] [move] [DEBG] Waiting for move from player RobotArm...
+[13:38:50] [move] [DEBG] Player RobotArm played move: g6h7, from g6 to h7 with promotion None, capture False, and piece K
+[13:38:50] [Commentator] [INFO] White plays King from g6 to h7
+[13:38:50] [Commentator] [INFO] Black (RobotArm) to move
+[13:38:50] [move] [DEBG] Waiting for move from player RobotArm...
+[13:38:59] [move] [DEBG] Player RobotArm played move: g4g5, from g4 to g5 with promotion None, capture False, and piece k
+[13:38:59] [Commentator] [INFO] Black plays King from g4 to g5
+[13:38:59] [Commentator] [INFO] White (RobotArm) to move
+[13:38:59] [move] [DEBG] Waiting for move from player RobotArm...
+[13:39:08] [move] [DEBG] Player RobotArm played move: h7g7, from h7 to g7 with promotion None, capture False, and piece K
+[13:39:08] [Commentator] [INFO] White plays King from h7 to g7
+[13:39:08] [Commentator] [INFO] Black (RobotArm) to move
+[13:39:08] [move] [DEBG] Waiting for move from player RobotArm...
+[13:39:16] [move] [DEBG] Player RobotArm played move: f5f4, from f5 to f4 with promotion None, capture False, and piece r
+[13:39:16] [Commentator] [INFO] Black plays Rook from f5 to f4
+[13:39:16] [Commentator] [INFO] White (RobotArm) to move
+[13:39:16] [move] [DEBG] Waiting for move from player RobotArm...
+[13:39:26] [move] [DEBG] Player RobotArm played move: g7h8, from g7 to h8 with promotion None, capture False, and piece K
+[13:39:26] [Commentator] [INFO] White plays King from g7 to h8
+[13:39:26] [Commentator] [INFO] Black (RobotArm) to move
+[13:39:26] [move] [DEBG] Waiting for move from player RobotArm...
+[13:39:33] [move] [DEBG] Player RobotArm played move: g5g6, from g5 to g6 with promotion None, capture False, and piece k
+[13:39:33] [Commentator] [INFO] Black plays King from g5 to g6
+[13:39:33] [Commentator] [INFO] White (RobotArm) to move
+[13:39:33] [move] [DEBG] Waiting for move from player RobotArm...
+[13:39:41] [move] [DEBG] Player RobotArm played move: h8g8, from h8 to g8 with promotion None, capture False, and piece K
+[13:39:41] [Commentator] [INFO] White plays King from h8 to g8
+[13:39:41] [Commentator] [INFO] Black (RobotArm) to move
+[13:39:41] [move] [DEBG] Waiting for move from player RobotArm...
+[13:39:49] [move] [DEBG] Player RobotArm played move: f4f3, from f4 to f3 with promotion None, capture False, and piece r
+[13:39:49] [Commentator] [INFO] Black plays Rook from f4 to f3
+[13:39:49] [Commentator] [INFO] White (RobotArm) to move
+[13:39:49] [move] [DEBG] Waiting for move from player RobotArm...
+[13:39:57] [move] [DEBG] Player RobotArm played move: g8h8, from g8 to h8 with promotion None, capture False, and piece K
+[13:39:57] [Commentator] [INFO] White plays King from g8 to h8
+[13:39:57] [Commentator] [INFO] Black (RobotArm) to move
+[13:39:57] [move] [DEBG] Waiting for move from player RobotArm...
+[13:40:06] [move] [DEBG] Player RobotArm played move: f3f8, from f3 to f8 with promotion None, capture False, and piece r
+[13:40:06] [Commentator] [INFO] Black plays Rook from f3 to f8
+[13:40:06] [Commentator] [CHCK]  - gives check
+[13:40:06] [Commentator] [MATE]  - delivers checkmate
+[13:40:06] [Main] [IMPT] Game Over: Black wins by checkmate
+[13:40:06] [Main] [IMPT] Game Ended.
+[13:40:06] [Main] [INFO] Final position:
